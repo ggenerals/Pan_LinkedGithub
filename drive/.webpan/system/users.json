@@ -4,5 +4,14 @@
   "guestPaths": [],
   "allowRegistration": true,
   "ignoreGitkeep": true,
-  "users": []
+  "users": [
+    {
+      "username": "Gcend",
+      "role": "user",
+      "salt": "5b6c221dab2feae1d1a83b54f92f70e3",
+      "hash": "77e86a0ac1b3a633ab7de5d8c6685c7e0c130f3036033628f6f733b33b82895b",
+      "iterations": 100000,
+      "createdAt": "2026-09-16T12:49:42.968Z"
+    }
+  ]
 }
