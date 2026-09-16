@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "guestEnabled": true,
+  "guestEnabled": false,
   "guestPaths": [],
   "allowRegistration": true,
   "ignoreGitkeep": true,
