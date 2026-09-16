@@ -6,9 +6,9 @@
 # 非机密的 ADMIN_USERNAME 可放在 [vars] 或控制台「变量」。
 # 添加/修改机密后务必在 Deployments 里 Retry deployment，否则 Functions 可能仍读不到。
 #
-name = "personal-pan-linkedgithub"
+name = "Pan_LinkedGithub"
 pages_build_output_dir = "web/dist"
-compatibility_date = "2024-10-22"
+compatibility_date = "2026-09-16"
 
 # 顶层 [vars]：部分构建会注入
 [vars]
