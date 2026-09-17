@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "overlayOpacity": 0.32,
-  "blurPx": 2,
+  "overlayOpacity": 0.08,
+  "blurPx": 7,
   "imageExt": "jpg",
-  "updatedAt": "2026-09-17T13:09:02.336Z"
+  "updatedAt": "2026-09-17T13:09:16.039Z"
 }
