@@ -880,36 +880,39 @@ async function loadFiles() {
     loading.value = false;
   }
 }
+
 function githubRawUrl(row){
   const owner=publicConfig.owner;
   const repo=publicConfig.repo;
   const branch=status.branch || publicConfig.branch;
 
-  // 当前用户
-  const username=row.owner || currentUser.username;
+  const username=me.driveSub || me.user;
 
-  // GitHub仓库中的真实路径
   const path=`drive/${username}/${row.path}`;
 
   return `https://github.com/${owner}/${repo}/raw/refs/heads/${branch}/${encodeURI(path)}`;
 }
+
 function githubProxyUrl(row){
   const owner=publicConfig.owner;
   const repo=publicConfig.repo;
   const branch=status.branch || publicConfig.branch;
-  const username=row.owner || currentUser.username;
+
+  const username=me.driveSub || me.user;
 
   const path=`drive/${username}/${row.path}`;
 
   return `https://api.gitproxy.dev/raw.githubusercontent.com/${owner}/${repo}/${branch}/${encodeURI(path)}`;
 }
-
 async function copyShareUrl(row,type){
-  const url=type==='proxy'?githubProxyUrl(row):githubRawUrl(row);
-  await navigator.clipboard.writeText(url);
-  ElMessage.success('链接已复制');
+  try{
+    const url=type==='proxy'?githubProxyUrl(row):githubRawUrl(row);
+    await navigator.clipboard.writeText(url);
+    ElMessage.success('链接已复制');
+  }catch(e){
+    ElMessage.error('复制失败');
+  }
 }
-
 function formatSize(n) {
   if (n == null || Number.isNaN(Number(n))) return '-';
   const x = Number(n);
