@@ -20,6 +20,14 @@
       "hash": "1726263d1871fb255ef63645cc91262e2a25b91dfad498f473fb5da09f44fdce",
       "iterations": 100000,
       "createdAt": "2026-09-17T00:04:15.063Z"
+    },
+    {
+      "username": "GCSG01",
+      "role": "user",
+      "salt": "2f7ca1971727fff3a42281c287ce477c",
+      "hash": "7f26e2cdb6663189b77cd80c15ac28a4b001fe218fc8028bffc52b5a9e334c8e",
+      "iterations": 100000,
+      "createdAt": "2026-09-18T01:42:23.718Z"
     }
   ]
 }
