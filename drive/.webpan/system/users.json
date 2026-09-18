@@ -28,6 +28,14 @@
       "hash": "7f26e2cdb6663189b77cd80c15ac28a4b001fe218fc8028bffc52b5a9e334c8e",
       "iterations": 100000,
       "createdAt": "2026-09-18T01:42:23.718Z"
+    },
+    {
+      "username": "liyifan202201",
+      "role": "user",
+      "salt": "9b9a3187dcd929164a8ccd28cd4a1564",
+      "hash": "f970e857ad0629096b82ab3a54437eb3d74aa593fe063f59b7914cf6195abcc7",
+      "iterations": 100000,
+      "createdAt": "2026-09-18T05:03:46.534Z"
     }
   ]
 }
