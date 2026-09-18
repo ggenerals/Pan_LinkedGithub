@@ -881,14 +881,27 @@ async function loadFiles() {
   }
 }
 function githubRawUrl(row){
-  const o=publicConfig.owner;
-  const r=publicConfig.repo;
-  const b=status.branch || publicConfig.branch;
-  return `https://raw.githubusercontent.com/${o}/${r}/${b}/${row.path}`;
-}
+  const owner=publicConfig.owner;
+  const repo=publicConfig.repo;
+  const branch=status.branch || publicConfig.branch;
 
+  // 当前用户
+  const username=row.owner || currentUser.username;
+
+  // GitHub仓库中的真实路径
+  const path=`drive/${username}/${row.path}`;
+
+  return `https://github.com/${owner}/${repo}/raw/refs/heads/${branch}/${encodeURI(path)}`;
+}
 function githubProxyUrl(row){
-  return `https://api.gitproxy.dev/${githubRawUrl(row).replace('https://','')}`;
+  const owner=publicConfig.owner;
+  const repo=publicConfig.repo;
+  const branch=status.branch || publicConfig.branch;
+  const username=row.owner || currentUser.username;
+
+  const path=`drive/${username}/${row.path}`;
+
+  return `https://api.gitproxy.dev/raw.githubusercontent.com/${owner}/${repo}/${branch}/${encodeURI(path)}`;
 }
 
 async function copyShareUrl(row,type){
