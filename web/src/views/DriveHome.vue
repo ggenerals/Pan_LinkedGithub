@@ -888,7 +888,7 @@ function githubRawUrl(row){
 }
 
 function githubProxyUrl(row){
-  return `https://gitproxy.dev/${githubRawUrl(row)}`;
+  return `https://api.gitproxy.dev/${githubRawUrl(row).replace('https://','')}`;
 }
 
 async function copyShareUrl(row,type){

@@ -16,7 +16,7 @@ export default {
   GITHUB_OWNER: 'ggenerals',
 
   /** 仓库名（本仓库，需包含 /drive 目录） */
-  GITHUB_REPO: 'Pan_LinkeedGithub',
+  GITHUB_REPO: 'Pan_LinkedGithub',
 
   /**
    * 分支名，默认 main；若仓库默认分支不同请修改
