@@ -287,6 +287,18 @@
           <dd class="props-mono">{{ propsRow.path }}</dd>
         </div>
         <div class="props-row">
+          <dt>Raw</dt>
+          <dd class="props-mono props-break">
+            {{ githubRawUrl(propsRow) }}
+          </dd>
+        </div>
+        <div class="props-row">
+          <dt>Proxy</dt>
+          <dd class="props-mono props-break">
+            {{ githubProxyUrl(propsRow) }}
+          </dd>
+        </div>
+        <div class="props-row">
           <dt>大小</dt>
           <dd>{{ formatSize(propsRow.size) }}</dd>
         </div>
@@ -867,6 +879,22 @@ async function loadFiles() {
   } finally {
     loading.value = false;
   }
+}
+function githubRawUrl(row){
+  const o=publicConfig.owner;
+  const r=publicConfig.repo;
+  const b=status.branch || publicConfig.branch;
+  return `https://raw.githubusercontent.com/${o}/${r}/${b}/${row.path}`;
+}
+
+function githubProxyUrl(row){
+  return `https://gitproxy.dev/${githubRawUrl(row)}`;
+}
+
+async function copyShareUrl(row,type){
+  const url=type==='proxy'?githubProxyUrl(row):githubRawUrl(row);
+  await navigator.clipboard.writeText(url);
+  ElMessage.success('链接已复制');
 }
 
 function formatSize(n) {
@@ -1458,6 +1486,12 @@ function buildRowCtxItems(row) {
     { type: 'divider' },
     { type: 'label', label: '路径与目录' },
     { key: 'copyPath', label: '复制路径', icon: DocumentCopy },
+  
+    { type:'divider' },
+    { type:'label', label:'分享链接' },
+    { key:'copyRaw', label:'复制 GitHub Raw 链接', icon: DocumentCopy },
+    { key:'copyProxy', label:'复制 GitProxy 加速链接', icon: DocumentCopy },
+  
     { key: 'copyName', label: '复制文件名', icon: DocumentCopy },
     { key: 'setDir', label: '将上传子目录设为所在文件夹', icon: FolderOpened },
     { key: 'propsDirRow', label: '所在目录属性', icon: ArrowUp },
@@ -1596,6 +1630,8 @@ function onCtxPick(key) {
   else if (key === 'pasteP') pasteIntoDirectory(parentDir(row.path));
   else if (key === 'copyPath') copyPath(row);
   else if (key === 'copyName') copyFileName(row);
+  else if (key === 'copyRaw') copyShareUrl(row,'raw');
+  else if (key === 'copyProxy') copyShareUrl(row,'proxy');
   else if (key === 'setDir') {
     uploadSubfolder.value = parentDir(row.path);
     ElMessage.success(uploadSubfolder.value ? `已设为：${uploadSubfolder.value}` : '已设为根目录');
