@@ -44,6 +44,14 @@
       "hash": "fb24b4273a7570aa273f267182085376e96f8a94e646826f9ab66d351772ecf5",
       "iterations": 100000,
       "createdAt": "2026-09-19T13:22:40.801Z"
+    },
+    {
+      "username": "liyp",
+      "role": "user",
+      "salt": "bec4072eb3348467624b05ef32a0361e",
+      "hash": "475f15fa1c52f49fedaa526a8d6459079406638a1ea1781dd7fa6bcada894ad5",
+      "iterations": 100000,
+      "createdAt": "2026-09-19T13:23:21.004Z"
     }
   ]
 }
