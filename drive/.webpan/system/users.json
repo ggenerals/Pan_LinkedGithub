@@ -36,6 +36,14 @@
       "hash": "f970e857ad0629096b82ab3a54437eb3d74aa593fe063f59b7914cf6195abcc7",
       "iterations": 100000,
       "createdAt": "2026-09-18T05:03:46.534Z"
+    },
+    {
+      "username": "sLMxf",
+      "role": "user",
+      "salt": "7e380821f33d3297fbde80575af7766e",
+      "hash": "fb24b4273a7570aa273f267182085376e96f8a94e646826f9ab66d351772ecf5",
+      "iterations": 100000,
+      "createdAt": "2026-09-19T13:22:40.801Z"
     }
   ]
 }
