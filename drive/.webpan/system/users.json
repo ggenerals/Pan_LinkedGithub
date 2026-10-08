@@ -52,6 +52,14 @@
       "hash": "475f15fa1c52f49fedaa526a8d6459079406638a1ea1781dd7fa6bcada894ad5",
       "iterations": 100000,
       "createdAt": "2026-09-19T13:23:21.004Z"
+    },
+    {
+      "username": "kind_ygg",
+      "role": "user",
+      "salt": "1a1cad2e06472b7be34dc74c3a2fe2fb",
+      "hash": "b9f2bdfc18ad7def8758a50480395d4844285dfc1798a6b72d4931f1f2c78784",
+      "iterations": 100000,
+      "createdAt": "2026-10-08T12:28:45.634Z"
     }
   ]
 }
