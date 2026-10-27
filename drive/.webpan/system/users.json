@@ -60,6 +60,14 @@
       "hash": "b9f2bdfc18ad7def8758a50480395d4844285dfc1798a6b72d4931f1f2c78784",
       "iterations": 100000,
       "createdAt": "2026-10-08T12:28:45.634Z"
+    },
+    {
+      "username": "cyzx",
+      "role": "user",
+      "salt": "e74a59c1ee39a5766f79c3fe83d35115",
+      "hash": "bf2aac0543590326b41674cf7e49e80c444f8edbbed43b037c6417196df21492",
+      "iterations": 100000,
+      "createdAt": "2026-10-27T05:57:53.790Z"
     }
   ]
 }
