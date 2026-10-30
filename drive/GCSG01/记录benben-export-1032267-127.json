@@ -1,0 +1,5132 @@
+{
+  "schema": "benben.sbs/feed-export",
+  "version": 1,
+  "exported_at": "2026-10-30T02:09:55.232Z",
+  "platform": "luogu",
+  "platform_uid": "1032267",
+  "platform_username": "GCSG01",
+  "total": 569,
+  "feeds": [
+    {
+      "rowId": 1281136,
+      "time": "2023-07-14T16:58:29.000000",
+      "grubTime": "2023-07-14T16:58:36.704748",
+      "content": "https://www.luogu.com.cn/blog/gcsg01/t352866-ti-xie  欢迎来看",
+      "userColor": "Blue",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 1362218,
+      "time": "2023-07-28T12:36:35.000000",
+      "grubTime": "2023-07-28T12:36:39.862220",
+      "content": "@8机房的，机房演唱会有开始了，歌手启动了原始人，歌手唱的十分疯狂。",
+      "userColor": "Blue",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 1362978,
+      "time": "2023-07-28T14:48:59.000000",
+      "grubTime": "2023-07-28T14:49:08.028667",
+      "content": "不是吧，八机房已经沦为了叙利亚战场！！",
+      "userColor": "Blue",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 1425853,
+      "time": "2023-08-08T13:46:36.000000",
+      "grubTime": "2023-08-08T13:46:44.194821",
+      "content": "![](https://cdn.luogu.com.cn/upload/image_hosting/5vnli9vy.png?x-oss-process=image/resize,m_lfit,h_170,w_225)",
+      "userColor": "Green",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 1448648,
+      "time": "2023-08-11T14:16:57.000000",
+      "grubTime": "2023-08-11T14:17:03.055860",
+      "content": "今天第三次403(强颜欢笑）",
+      "userColor": "Green",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 1448663,
+      "time": "2023-08-11T14:20:35.000000",
+      "grubTime": "2023-08-11T14:20:44.639599",
+      "content": "![](//图.tk/g)[洛谷]",
+      "userColor": "Green",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 1448681,
+      "time": "2023-08-11T14:24:14.000000",
+      "grubTime": "2023-08-11T14:24:18.751441",
+      "content": "![](https://cdn.luogu.com.cn/upload/image_hosting/ta6dzob9.png?x-oss-process=image/resize,m_lfit,h_170,w_225)",
+      "userColor": "Green",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 1448685,
+      "time": "2023-08-11T14:24:32.000000",
+      "grubTime": "2023-08-11T14:24:36.235970",
+      "content": "![](//图.https://cdn.luogu.com.cn/upload/image_hosting/ta6dzob9.png?x-oss-process=image/resize,m_lfit,h_170,w_225)",
+      "userColor": "Green",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 1492094,
+      "time": "2023-08-17T09:08:03.000000",
+      "grubTime": "2023-08-17T09:08:10.075961",
+      "content": "19,20放假两天！！！！！！！！![](//图.tk/g)暑假作业",
+      "userColor": "Green",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 1494159,
+      "time": "2023-08-17T12:50:19.000000",
+      "grubTime": "2023-08-17T12:50:27.654145",
+      "content": "今天也被JC了！I ak IOI！！！！ || @[so_langman_xiaoFeng](/user/752953) : 昨天被jc了",
+      "userColor": "Green",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 2497953,
+      "time": "2023-10-03T11:52:39.000000",
+      "grubTime": "2023-10-03T11:52:46.674676",
+      "content": "李瑞涵 @[so_langman_xiaoFeng](/user/752953) AKIOI 了",
+      "userColor": "Green",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 2497955,
+      "time": "2023-10-03T11:53:29.000000",
+      "grubTime": "2023-10-03T11:53:30.826465",
+      "content": "so_langman_xiaoFeng AK 了 [这场比赛](https://www.luogu.com.cn/contest/136780#problems)",
+      "userColor": "Green",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 2499153,
+      "time": "2023-10-03T14:35:47.000000",
+      "grubTime": "2023-10-03T14:35:57.205973",
+      "content": "",
+      "userColor": "Green",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 2516575,
+      "time": "2023-10-05T11:40:53.000000",
+      "grubTime": "2023-10-05T11:40:57.486413",
+      "content": "[https://www.luogu.com.cn/problem/P2124](https://www.luogu.com.cn/problem/P2124)",
+      "userColor": "Cheater",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 2607848,
+      "time": "2023-10-17T13:13:23.000000",
+      "grubTime": "2023-10-17T13:13:25.076155",
+      "content": "我们机房有[人](https://www.luogu.com.cn/user/676952)退役了",
+      "userColor": "Cheater",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 2922572,
+      "time": "2024-01-04T12:50:08.000000",
+      "grubTime": "2024-01-04T12:50:13.421960",
+      "content": "[J_kobe的题解](https://www.luogu.com.cn/blog/844496/solution-cf348a)",
+      "userColor": "Orange",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 3006686,
+      "time": "2024-01-29T12:37:16.000000",
+      "grubTime": "2024-01-29T12:37:22.990881",
+      "content": "![](https://cdn.luogu.com.cn/upload/image_hosting/z2xaorgj.png)",
+      "userColor": "Orange",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 3006690,
+      "time": "2024-01-29T12:37:51.000000",
+      "grubTime": "2024-01-29T12:38:02.625761",
+      "content": "![](https://cdn.luogu.com.cn/upload/image_hosting/z2xaorgj.png)洛谷炸了。",
+      "userColor": "Orange",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 3007730,
+      "time": "2024-01-29T16:52:11.000000",
+      "grubTime": "2024-01-29T16:52:18.099338",
+      "content": "![](https://cdn.luogu.com.cn/upload/image_hosting/kwg64spm.png)",
+      "userColor": "Orange",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 3053699,
+      "time": "2024-02-08T21:14:25.000000",
+      "grubTime": "2024-02-08T21:14:36.834020",
+      "content": "666|| @[sLMxf](/user/752953) : ChatGPT：《原神》的音乐更是让人如痴如醉，璃月的音乐由传统乐器演奏，轻策庄的音乐洋溢着轻松活泼的气息，璃月港的音乐则充满生机和活力，而鹤观的背景音乐则充斥着孤独与悲伤。|| @[sLMxf](/user/752953) : 你们知道ChatGPT的文化水平吗：璃月蕴含着上下五",
+      "userColor": "Orange",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 3086896,
+      "time": "2024-02-18T13:35:06.000000",
+      "grubTime": "2024-02-18T13:35:23.564515",
+      "content": "%%%![](https://cdn.luogu.com.cn/upload/image_hosting/zi6aeb0k.png)",
+      "userColor": "Orange",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 3107925,
+      "time": "2024-02-22T14:45:34.000000",
+      "grubTime": "2024-02-22T14:45:38.704150",
+      "content": "I AK IOI!!!",
+      "userColor": "Orange",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 3108480,
+      "time": "2024-02-22T16:16:59.000000",
+      "grubTime": "2024-02-22T16:17:05.679709",
+      "content": "puck:\"谁再喊原神，就给我下去跑10圈，一边跑一边喊原神。\"",
+      "userColor": "Orange",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 3131297,
+      "time": "2024-02-27T21:23:54.000000",
+      "grubTime": "2024-02-27T21:24:11.026693",
+      "content": "洛谷博客没了!!!",
+      "userColor": "Orange",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 3153831,
+      "time": "2024-03-05T12:54:49.000000",
+      "grubTime": "2024-03-05T12:54:56.666298",
+      "content": "I AK IOI",
+      "userColor": "Orange",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 3153862,
+      "time": "2024-03-05T13:06:44.000000",
+      "grubTime": "2024-03-05T13:07:00.528983",
+      "content": "666|| @[ChenJiaMing110122](/user/1053119) : I AK IOI",
+      "userColor": "Orange",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 3153865,
+      "time": "2024-03-05T13:07:43.000000",
+      "grubTime": "2024-03-05T13:07:46.436453",
+      "content": "114514",
+      "userColor": "Orange",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 3191328,
+      "time": "2024-03-18T13:11:18.000000",
+      "grubTime": "2024-03-18T13:11:22.199436",
+      "content": "@\\_saltfish\\_  @[_saltfish_](/user/661044)",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 3191329,
+      "time": "2024-03-18T13:11:37.000000",
+      "grubTime": "2024-03-18T13:11:43.950749",
+      "content": "@[_saltfish_](/user/661044)",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 3288980,
+      "time": "2024-04-20T13:58:15.000000",
+      "grubTime": "2024-04-20T13:58:20.277261",
+      "content": "666 || @[liyifan202201](/user/661094) : I AK IOI",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 3305704,
+      "time": "2024-04-25T19:25:13.000000",
+      "grubTime": "2024-04-25T19:25:20.902502",
+      "content": "666 || @[liyifan202201](/user/661094) : 不知道，但我只知道你现在估值是0 || @[sto_0616allen_orz](/user/1037997) : 能理解估值229的痛处吗",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 3307020,
+      "time": "2024-04-26T11:44:52.000000",
+      "grubTime": "2024-04-26T11:44:57.781230",
+      "content": "666|| @[zhangyaiwei](/user/684245) : IAKIOI",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 3421996,
+      "time": "2024-06-03T12:42:38.000000",
+      "grubTime": "2024-06-03T12:42:49.274936",
+      "content": "puck:\"有个人已经永远的李奕帆\" || @[liyifan202201](/user/661094) : @[yangyafan](/user/697932)\nWhat is \"愚蠢的李奕帆\" problem？",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 3421997,
+      "time": "2024-06-03T12:43:02.000000",
+      "grubTime": "2024-06-03T12:43:08.570183",
+      "content": "puck:\"有个人已经永远的离开了我们\" || @[liyifan202201](/user/661094) : @[yangyafan](/user/697932) What is \"愚蠢的李奕帆\" problem？",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 3429094,
+      "time": "2024-06-05T20:02:34.000000",
+      "grubTime": "2024-06-07T21:21:34.185393",
+      "content": "puck微笑的走进来说给我们一个警告，不要再全机房的搞颓了 || @[liyifan202201](/user/661094) : 问一个问题，puck是怎么说的 || @[GCSG01](/user/1032267) : puck:\"有个人已经永远的离开了我们\" || @[liyifan202201](/user/661094) : @[yangyafan](/user/697932) What is \"",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 3483801,
+      "time": "2024-06-26T20:21:35.000000",
+      "grubTime": "2024-06-26T20:21:44.941679",
+      "content": "666|| @[sLMxf](/user/752953) : 仙人板板是啥子 || @[sLMxf](/user/752953) ：没有这条犇 || @[Grow2011](/user/691641) : 我日你个仙人板板 || @[sLMxf](/user/752953) : 《Grow说》云： “经过可靠性能测试，一边强奸一边进行代码评测不会影响代码运行效率。”|| @[Grow2011](/user/691641) : ？？？||",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 3491579,
+      "time": "2024-06-28T20:20:35.000000",
+      "grubTime": "2024-06-28T20:20:43.994452",
+      "content": "? || @[_saltFish_](/user/661044) : Cu || @[xiezheyuan](/user/413065) : 解锁新电脑",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 3491582,
+      "time": "2024-06-28T20:20:53.000000",
+      "grubTime": "2024-06-28T20:20:57.840713",
+      "content": "![](//图.tk/g6!25)![](//图.tk/ge!25)",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 3518711,
+      "time": "2024-07-04T12:44:10.000000",
+      "grubTime": "2024-07-04T12:44:24.983497",
+      "content": "|| @[_saltFish_](/user/661044) : puck：后天帮你们全不签竞赛班，签体育班。",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 3546664,
+      "time": "2024-07-08T12:19:18.000000",
+      "grubTime": "2024-07-08T12:19:25.105934",
+      "content": "《马来半岛》《中南群岛》",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 3547562,
+      "time": "2024-07-08T14:44:05.000000",
+      "grubTime": "2024-07-08T14:44:14.458634",
+      "content": "|| @[sLMxf](/user/752953) : 有人骂我有神经疾病，怎么办？",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 3548631,
+      "time": "2024-07-08T16:41:20.000000",
+      "grubTime": "2024-07-08T16:41:37.598149",
+      "content": "+1 || @[liyifan202201](/user/661094) : 您已被移出 一中信息学集训团队 团队\n07-08 15:55\n您已被 luxiaoxia 移出 一中信息学集训团队 团队\n强！",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 3556604,
+      "time": "2024-07-09T15:13:26.000000",
+      "grubTime": "2024-07-09T15:13:30.124447",
+      "content": "%%% || @[sLMxf](/user/752953) : %%%，但不拜 || @[JOE_ZengYuQiao_0928](/user/853792) : 不准膜拜|| @[JOE_ZengYuQiao_0928](/user/853792) : 普及−通过数大于入门通过数祭",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 3611437,
+      "time": "2024-07-15T16:52:19.000000",
+      "grubTime": "2024-07-15T16:52:40.138015",
+      "content": "帮 @[sLMxf](/user/752953) 宣传比赛",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 3622588,
+      "time": "2024-07-16T16:49:25.000000",
+      "grubTime": "2024-07-16T16:49:39.415189",
+      "content": "cssyz机房：https://www.luogu.com.cn/discuss/851256",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 3631564,
+      "time": "2024-07-17T14:04:53.000000",
+      "grubTime": "2024-07-17T14:05:01.573000",
+      "content": "死了吗小枫？嘿~死了吗小枫？嘿~死了吗小枫？嘿~死了吗，小枫？嘿~死了吗，小枫？嘿~死了吗小枫？嘿！ || @[sLMxf](/user/752953) : 欢迎来到7机房的巡回演唱，今天的歌曲是：\n合唱《死了吗小枫？嘿！》\n演唱人：@[Grow2011](/user/691641) @lihongqian_int128 @[zhouyoyo](/user/724190)",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 3631592,
+      "time": "2024-07-17T14:06:10.000000",
+      "grubTime": "2024-07-17T14:06:17.737551",
+      "content": "又是机房合唱了 || @[LZQ__](/user/767449) : 现在由 @[Grow2011](/user/691641) 独唱！ || @[sLMxf](/user/752953) : || @[sLMxf](/user/752953) : 欢迎来到7机房的巡回演唱，今天的歌曲是：\n合唱《死了吗小枫？嘿！》\n演唱人：@[Grow2011](/user/691641) @[lihongqian__int128](/user/770891) @[zhouyoyo](/user/724190)",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 3631708,
+      "time": "2024-07-17T14:10:58.000000",
+      "grubTime": "2024-07-17T14:11:08.164235",
+      "content": "见证者+1 || @sLMxf : 见证者 +1 || @[LZQ__](/user/767449) : 见证者 +1 || @[imzfx_Square](/user/936183) : 见证者 +1 || @[lihongqian__int128](/user/770891) : 见证者 +1|| @[endswitch](/user/773915) : 见证者 +1 || @[Clay_L](/user/794579) : 见证者",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 3631803,
+      "time": "2024-07-17T14:15:27.000000",
+      "grubTime": "2024-07-17T14:15:36.514112",
+      "content": "宜成为女高音 || @[sLMxf](/user/752953) : @[Grow2011](/user/691641) 的运势：\n大凶\n诸事不宜\n祭：唱歌 别人唱歌要钱，你要命",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 3631939,
+      "time": "2024-07-17T14:23:33.000000",
+      "grubTime": "2024-07-17T14:23:43.195614",
+      "content": "征集数据：[死了吗小枫](https://www.luogu.com.cn/problem/U451561)",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 3631947,
+      "time": "2024-07-17T14:23:49.000000",
+      "grubTime": "2024-07-17T14:24:00.385360",
+      "content": "@sLMxf|| @[GCSG01](/user/1032267) : 征集数据：死了吗小枫",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 3632714,
+      "time": "2024-07-17T15:03:55.000000",
+      "grubTime": "2024-07-17T15:03:58.304272",
+      "content": "|| @[sLMxf](/user/752953) : 你说得对，但是@[wrpwrp](/user/139012) 不在正是可惜了。",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 3632717,
+      "time": "2024-07-17T15:03:46.000000",
+      "grubTime": "2024-07-17T15:03:58.310856",
+      "content": "|| @[sLMxf](/user/752953) : 我看今天下午下课时我铃铛能有多少！",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 3632734,
+      "time": "2024-07-17T15:05:08.000000",
+      "grubTime": "2024-07-17T15:05:24.004947",
+      "content": "|| @[sLMxf](/user/752953) : @LZQ：小枫是水系的。",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 3632737,
+      "time": "2024-07-17T15:05:03.000000",
+      "grubTime": "2024-07-17T15:05:24.010308",
+      "content": "原来小枫是水系的呀！",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 3632757,
+      "time": "2024-07-17T15:06:34.000000",
+      "grubTime": "2024-07-17T15:06:40.486512",
+      "content": "元素战绩：《你说得对，但是……》 || @[LZQ__](/user/767449) : 专武：矿泉水瓶 || @[GCSG01](/user/1032267) : || @[sLMxf](/user/752953) : @LZQ：小枫是水系的。",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 3632779,
+      "time": "2024-07-17T15:07:28.000000",
+      "grubTime": "2024-07-17T15:07:39.461795",
+      "content": "|| @[sLMxf](/user/752953) : 你说得对，但是auto || @[GCSG01](/user/1032267) : 元素战绩：《你说得对，但是……》 || @[LZQ__](/user/767449) : 专武：矿泉水瓶 || @[GCSG01](/user/1032267) : || @[sLMxf](/user/752953) : @LZQ：小枫是水系的。",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 3632781,
+      "time": "2024-07-17T15:07:24.000000",
+      "grubTime": "2024-07-17T15:07:39.464903",
+      "content": "%%%orz || @[LZQ__](/user/767449) : %%% || @[sLMxf](/user/752953) : 声明一下，我专武是万叶，不是矿泉水。",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 3632840,
+      "time": "2024-07-17T15:10:51.000000",
+      "grubTime": "2024-07-17T15:10:57.837764",
+      "content": "|| @[sLMxf](/user/752953) : %%%@[wrpwrp](/user/139012) and @Grow2011:",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 3632855,
+      "time": "2024-07-17T15:11:17.000000",
+      "grubTime": "2024-07-17T15:11:24.610585",
+      "content": "%%%||@[sLMxf](/user/752953)",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 3632860,
+      "time": "2024-07-17T15:11:12.000000",
+      "grubTime": "2024-07-17T15:11:24.619752",
+      "content": "%%%||@[sLMxf](/user/752953)",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 3633020,
+      "time": "2024-07-17T15:20:17.000000",
+      "grubTime": "2024-07-17T15:20:38.692605",
+      "content": "机房交响乐|| @[LZQ__](/user/767449) : xf你4的好惨啊5555555 || @[sLMxf](/user/752953) : 你说得对，但是我4了 || @[LZQ__](/user/767449) :",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 3633024,
+      "time": "2024-07-17T15:20:39.000000",
+      "grubTime": "2024-07-17T15:20:59.009372",
+      "content": "小枫好闪，拜谢小枫！",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 3633147,
+      "time": "2024-07-17T15:28:15.000000",
+      "grubTime": "2024-07-17T15:28:37.704820",
+      "content": "|| @[sLMxf](/user/752953) : 没人为逝者哀哭吗？（黄泉怎么你了）",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 3633152,
+      "time": "2024-07-17T15:28:57.000000",
+      "grubTime": "2024-07-17T15:29:04.399620",
+      "content": "xf你怎么英年早逝了！ || @[sLMxf](/user/752953) : 没人为逝者哀哭吗？（黄泉怎么你了）",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 3633163,
+      "time": "2024-07-17T15:29:16.000000",
+      "grubTime": "2024-07-17T15:29:35.562884",
+      "content": "# %%% || @[sLMxf](/user/752953) : 《龙里格龙》改编版《死了吗小枫》系列与《cndtm》系列由@[Grow2011](/user/691641) 播出！",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 3633299,
+      "time": "2024-07-17T15:38:38.000000",
+      "grubTime": "2024-07-17T15:38:46.024799",
+      "content": "%%%%%%% || @[sLMxf](/user/752953) : ![](https://cdn.luogu.com.cn/upload/image_hosting/zx7wtdht.png)",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 3633308,
+      "time": "2024-07-17T15:39:13.000000",
+      "grubTime": "2024-07-17T15:39:28.150435",
+      "content": "tql || @[sLMxf](/user/752953) : 铃铛77祭",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 3638895,
+      "time": "2024-07-18T07:55:51.000000",
+      "grubTime": "2024-07-18T07:55:56.710950",
+      "content": "|| @[liyifan202201](/user/661094) : 一直@...莫非... MMY青春萌动暗恋LZQ？ || @[Grow2011](/user/691641) : @[LZQ__](/user/767449)",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 3639040,
+      "time": "2024-07-18T08:07:14.000000",
+      "grubTime": "2024-07-18T08:07:30.762673",
+      "content": "|| @[sLMxf](/user/752953) : 一上号84铃铛",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 3639579,
+      "time": "2024-07-18T09:06:18.000000",
+      "grubTime": "2024-07-18T09:06:30.936262",
+      "content": "%%% || @[LZQ__](/user/767449) : %%% || @[sLMxf](/user/752953) :  || @[sLMxf](/user/752953) : 100铃铛大祭！没有F12",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 3639580,
+      "time": "2024-07-18T09:06:27.000000",
+      "grubTime": "2024-07-18T09:06:41.733006",
+      "content": "|| @[_saltFish_](/user/661044) : 尼古丁之神：不能打扰其他人训练，但可以大声玩魔方并且大声喊叫 || @[xiezheyuan](/user/413065) : 不能打摆，但是可以玩魔方……",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 3641211,
+      "time": "2024-07-18T11:33:35.000000",
+      "grubTime": "2024-07-18T11:33:42.218752",
+      "content": "|| @[puck](/user/12541) : I AK NOI 2024 Day1",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 3641217,
+      "time": "2024-07-18T11:33:50.000000",
+      "grubTime": "2024-07-18T11:33:54.979075",
+      "content": "|| @[xiezheyuan](/user/413065) : || @[puck](/user/12541) : I AK NOI 2024 Day1",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 3641224,
+      "time": "2024-07-18T11:34:04.000000",
+      "grubTime": "2024-07-18T11:34:13.173416",
+      "content": "被谁？ || @[_saltFish_](/user/661044) : [puck](/user/12541)被盒了（悲 || @[puck](/user/12541) : I AK NOI 2024 Day1",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 3641274,
+      "time": "2024-07-18T11:37:05.000000",
+      "grubTime": "2024-07-18T11:37:09.099991",
+      "content": "|| @[sLMxf](/user/752953) : 你说得对，但是@[Grow2011](/user/691641) 带领全班唱起了《死了吗小枫？嘿！》",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 3641287,
+      "time": "2024-07-18T11:37:08.000000",
+      "grubTime": "2024-07-18T11:37:23.340457",
+      "content": "|| @[sLMxf](/user/752953) :",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 3653541,
+      "time": "2024-07-19T11:25:57.000000",
+      "grubTime": "2024-07-19T11:26:05.956923",
+      "content": "|| @[xiezheyuan](/user/413065) : || @[saltFish](/user/238860) : 什么逆天图片 || @[includer](/user/671157) : ![](https://cdn.luogu.com.cn/upload/image_hosting/5rb6jm23.png)",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 3655680,
+      "time": "2024-07-19T15:15:41.000000",
+      "grubTime": "2024-07-19T15:15:57.877150",
+      "content": "|| @[xiezheyuan](/user/413065) : ![](https://cdn.luogu.com.cn/upload/image_hosting/fw13wzhu.png)",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 3655685,
+      "time": "2024-07-19T15:15:55.000000",
+      "grubTime": "2024-07-19T15:16:12.205180",
+      "content": "|| @[LZQ__](/user/767449) : 乐了，一个JCer急了",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 3662548,
+      "time": "2024-07-20T10:06:42.000000",
+      "grubTime": "2024-07-20T10:06:50.553912",
+      "content": "|| @[liwenxi114514](/user/661913) : || @[yizhicaiKUN](/user/1027991) : @[liwenxi114514](/user/661913) 生日快乐丫\n@[yizhicaiKUN](/user/1027991) 谢谢你奥",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 3666259,
+      "time": "2024-07-20T16:45:21.000000",
+      "grubTime": "2024-07-20T16:45:29.497515",
+      "content": "7机房进：<https://amemei-lists-chat-room.hf.space/room/@7jf>",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 3700997,
+      "time": "2024-07-24T08:00:26.000000",
+      "grubTime": "2024-07-24T08:00:34.136120",
+      "content": "|| @[_saltFish_](/user/661044) : || @[CJ_Fu](/user/539344) : || @[bryce](/user/217289) : @[hanhoudedidue](/user/666072) 和 @[bryce](/user/217289) 打赌，谁上高中找到女朋友，谈一年，另外一个给他买茶颜，望周知。",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 3706439,
+      "time": "2024-07-24T15:08:34.000000",
+      "grubTime": "2024-07-24T15:08:40.170038",
+      "content": "%%%   巨~ || @[liyifan202201](/user/661094) : 用power automate写了一个自动脚本，全自动帮@lihongqian__int128炸铃铛【Doge】",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 3719635,
+      "time": "2024-07-25T16:12:25.000000",
+      "grubTime": "2024-07-25T16:12:40.060037",
+      "content": "|| @[_saltFish_](/user/661044) : 你谷又在发神经了![](https://cdn.luogu.com.cn/upload/image_hosting/7sj3m09u.png)",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 3736872,
+      "time": "2024-07-27T08:08:57.000000",
+      "grubTime": "2024-07-27T08:09:04.392764",
+      "content": "|| @[LZQ__](/user/767449) : 鉴定为：mmy 暗恋 Soil || @_qwe_wzjewq : Soil 无端乱入 || @[LZQ__](/user/767449) : || @[sLMxf](/user/752953) : 7 机房第一届音乐大会开始了！\n@[zhouyoyo](/user/724190) 《嘚嘚神曲》\n@[Grow2011](/user/691641) 《跟 Soil 的 Soil 说 ",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 3738403,
+      "time": "2024-07-27T11:39:17.000000",
+      "grubTime": "2024-07-27T11:39:22.522810",
+      "content": "??? || @[_[saltFish](/user/238860)_](/user/661044) : 提前迎接三年以来遇到的最长假期 || @[saltFish](/user/238860) : 今天不想搞学了",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 3738405,
+      "time": "2024-07-27T11:39:09.000000",
+      "grubTime": "2024-07-27T11:39:22.527792",
+      "content": "... || @[_saltFish_](/user/661044) : 大声喊出：我要搞t || @[xiezheyuan](/user/413065) : 提前进入养生模式",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 3848036,
+      "time": "2024-08-06T13:50:38.000000",
+      "grubTime": "2024-08-06T13:50:43.753212",
+      "content": "|| @[liyifan202201](/user/661094) : github 镜像站",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 3869196,
+      "time": "2024-08-08T09:39:30.000000",
+      "grubTime": "2024-08-08T09:39:39.423781",
+      "content": "|| @[liyifan202201](/user/661094) : 关于GG莱德 || @[小粉兔](/user/10703) : 帖子是我自己删的，我不喜欢“神帖”之类的东西。这条犇犇只作澄清用，过会儿删。希望大家理解",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 3869198,
+      "time": "2024-08-08T09:39:24.000000",
+      "grubTime": "2024-08-08T09:39:39.428514",
+      "content": "|| @[xiezheyuan](/user/413065) : ![](https://cdn.luogu.com.cn/upload/image_hosting/iw9mtl81.png)",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 3869491,
+      "time": "2024-08-08T09:57:38.000000",
+      "grubTime": "2024-08-08T09:57:48.727253",
+      "content": "怎么一个暑假这么多人改名字，感觉多了一堆不认识的。(雾",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 3922751,
+      "time": "2024-08-12T13:40:30.000000",
+      "grubTime": "2024-08-12T13:40:41.130618",
+      "content": "|| @[__lfxxx_](/user/749040) : IAKIOI",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 3926198,
+      "time": "2024-08-12T17:34:06.000000",
+      "grubTime": "2024-08-12T17:34:12.611303",
+      "content": "|| @[liyifan202201](/user/661094) : 突然发现，我是 C2023 届第一个退役的。",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 3937105,
+      "time": "2024-08-13T15:25:54.000000",
+      "grubTime": "2024-08-13T15:26:15.478812",
+      "content": "[莱德需要我们.io](https://slmxf114.github.io/gengen.github.com/)",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 3948402,
+      "time": "2024-08-14T13:17:45.000000",
+      "grubTime": "2024-08-14T13:17:55.487559",
+      "content": "论机房同学 xzq 吃饭从 12:20 吃到现在还没吃完",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 3951672,
+      "time": "2024-08-14T16:37:58.000000",
+      "grubTime": "2024-08-14T16:38:05.296425",
+      "content": "__int128：![](https://cdn.luogu.com.cn/upload/image_hosting/jz63hprn.png)",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 3992038,
+      "time": "2024-08-17T15:30:44.000000",
+      "grubTime": "2024-08-17T15:30:50.771318",
+      "content": "|| @[sLMxf](/user/752953) : std 保龄计划，启动！\n@[general0826](/user/1351126) 我需要你帮助 std",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 3992039,
+      "time": "2024-08-17T15:30:42.000000",
+      "grubTime": "2024-08-17T15:30:50.773354",
+      "content": "%%%|| @[sLMxf](/user/752953) : std 保龄计划，启动！",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 4001058,
+      "time": "2024-08-18T09:56:08.000000",
+      "grubTime": "2024-08-18T09:56:23.512897",
+      "content": "@[KukCair](/user/767449) 生日快乐！",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 4061935,
+      "time": "2024-08-22T16:05:44.000000",
+      "grubTime": "2024-08-22T16:05:59.254055",
+      "content": "|| @[liyifan202201](/user/661094) : 我是SB",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 4061966,
+      "time": "2024-08-22T16:07:07.000000",
+      "grubTime": "2024-08-22T16:07:26.053332",
+      "content": "被J了？|| @[liyifan202201](/user/661094) : 我是SB",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 4062555,
+      "time": "2024-08-22T16:35:31.000000",
+      "grubTime": "2024-08-22T16:35:48.220485",
+      "content": "？ || @[liyifan202201](/user/661094) : github UI变了！",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 4085604,
+      "time": "2024-08-24T08:01:13.000000",
+      "grubTime": "2024-08-24T08:01:20.110185",
+      "content": "|| @[liyifan202201](/user/661094) : 终于，在一个浪漫的夜晚，LYF鼓起勇气向Grow2011表白，她轻声说：“我喜欢你，就像猫喜欢阳光一样。”Grow2011愣了一下，随后露出了一个灿烂的笑容。他轻轻抚摸着LYF的猫耳，柔声回应：“我也喜欢你，一直以来。”\n\n2.0 版本",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 4085625,
+      "time": "2024-08-24T08:03:35.000000",
+      "grubTime": "2024-08-24T08:03:43.680840",
+      "content": "猫娘LYF || @[liyifan202201](/user/661094) : 终于，在一个浪漫的夜晚，LYF鼓起勇气向Grow2011表白，她轻声说：“我喜欢你，就像猫喜欢阳光一样。”Grow2011愣了一下，随后露出了一个灿烂的笑容。他轻轻抚摸着LYF的猫耳，柔声回应：“我也喜欢你，一直以来。”\n\n2.",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 4142930,
+      "time": "2024-08-29T13:27:00.000000",
+      "grubTime": "2024-08-29T13:27:07.838917",
+      "content": "|| @[xiezheyuan](/user/413065) : 军训归来",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 4166306,
+      "time": "2024-08-31T13:57:37.000000",
+      "grubTime": "2024-08-31T13:57:48.438567",
+      "content": "666 || @[sLMxf](/user/752953) : 要不是为了基尼奇，我的小枫已经0+1了qwq",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 4167694,
+      "time": "2024-08-31T16:04:39.000000",
+      "grubTime": "2024-08-31T16:04:47.354689",
+      "content": "|| @[sLMxf](/user/752953) : ...... || @[endswitch](/user/773915) : 第一眼看成 40 颗原石 || @[sLMxf](/user/752953) : mc 挖矿差点掉洞里面，还没来得及骂就碰到 40 颗钻石",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 4184382,
+      "time": "2024-09-03T12:38:33.000000",
+      "grubTime": "2024-09-03T12:38:42.887096",
+      "content": "YZYL机房网络堪忧 || @[KukCair](/user/767449) : 拿着QCHXY机房的Win7上谷的我。",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 4186436,
+      "time": "2024-09-03T19:08:40.000000",
+      "grubTime": "2024-09-03T19:08:46.218455",
+      "content": "|| @[CodingOIer](/user/754324) : Someone AK IOI ![](https://pic.codingoier.com/o9Blt3.png)",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 4192477,
+      "time": "2024-09-04T19:25:12.000000",
+      "grubTime": "2024-09-04T19:25:24.195808",
+      "content": "win10吃瓜+1 || @[liyifan202201](/user/661094) : winxp 吃瓜 || @[KukCair](/user/767449) : 更新：现在是 Win11 了 || @[KukCair](/user/767449) : 拿着QCHXY机房的Win7上谷的我。",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 4231343,
+      "time": "2024-09-09T12:33:36.000000",
+      "grubTime": "2024-09-09T12:33:41.769721",
+      "content": "666 || @[sLMxf](/user/752953) : 佛又曰：咩室娑罚婆苏烁无怛夜伽摩醯谨唵菩写醯帝烁写萨婆喝吉唵曳驮羯摩阇怛地唎沙嚧阿皤罚吉谨写伽啰婆醯皤耶数咩呼驮埵佛",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 4285152,
+      "time": "2024-09-17T09:40:41.000000",
+      "grubTime": "2024-09-17T09:40:56.004565",
+      "content": "中秋快乐",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 4285974,
+      "time": "2024-09-17T11:27:06.000000",
+      "grubTime": "2024-09-17T11:27:20.573175",
+      "content": "作文还没写怎么办TWT(其实还有一大堆背诵",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 4308564,
+      "time": "2024-09-19T13:18:42.000000",
+      "grubTime": "2024-09-19T13:18:54.238991",
+      "content": "noipwen复活了 || @[__lfxxx_](/user/749040) : %%% || @[wangyibo201026](/user/363006) : I AK world finall",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 4315800,
+      "time": "2024-09-19T20:46:36.000000",
+      "grubTime": "2024-09-19T20:46:51.592384",
+      "content": "|| @[zhangyaiwei](/user/684245) : I AK IOI",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 4320571,
+      "time": "2024-09-20T12:42:03.000000",
+      "grubTime": "2024-09-20T12:42:14.701197",
+      "content": "? 发生了什么 || @[sLMxf](/user/752953) : 记得退号",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 4320605,
+      "time": "2024-09-20T12:46:28.000000",
+      "grubTime": "2024-09-20T12:46:40.943890",
+      "content": "e...|| @[sLMxf](/user/752953) : 我不到啊 || @[GCSG01](/user/1032267) : ? 发生了什么 || @[sLMxf](/user/752953) : 记得退号",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 4320824,
+      "time": "2024-09-20T13:14:35.000000",
+      "grubTime": "2024-09-20T13:14:40.763888",
+      "content": "去尘歌壶 || @[KukCair](/user/767449) : CSP-S/J 已迫在眉睫，我何处遁逃？",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 4333652,
+      "time": "2024-09-21T08:04:44.000000",
+      "grubTime": "2024-09-21T08:05:03.051133",
+      "content": "rp++",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 4408896,
+      "time": "2024-10-01T17:15:43.000000",
+      "grubTime": "2024-10-01T17:15:55.615488",
+      "content": "? || @[KukCair](/user/767449) : 我很抱歉，但是我还是必须去。我知道那些正人君子会谩骂我这个卑鄙小人。我会以最恶意的语言怒骂那群衣冠禽兽，以最痛恨的眼光直视那群狼心狗肺者。",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 4451005,
+      "time": "2024-10-05T13:28:00.000000",
+      "grubTime": "2024-10-05T13:28:12.103234",
+      "content": "|| @[CodingOIer](/user/754324) : 我是小猫娘！！！！！！！！",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 4489800,
+      "time": "2024-10-08T17:02:23.000000",
+      "grubTime": "2024-10-08T17:02:39.080666",
+      "content": "蚌埠住了\n![](https://cdn.luogu.com.cn/upload/image_hosting/9ejge747.png)",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 4489819,
+      "time": "2024-10-08T17:03:40.000000",
+      "grubTime": "2024-10-08T17:03:50.731872",
+      "content": "蚌埠住 \n![](https://cdn.luogu.com.cn/upload/image_hosting/n4kbpzpl.png)",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 4497864,
+      "time": "2024-10-09T20:50:55.000000",
+      "grubTime": "2024-10-09T20:51:13.044422",
+      "content": "[《莱德自救》](https://www.luogu.com.cn/discuss/955383?page=2)",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 4508023,
+      "time": "2024-10-11T15:07:47.000000",
+      "grubTime": "2024-10-11T15:07:56.942783",
+      "content": "[《机房的学术讨论》](https://lglg.top/956739)",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 4508024,
+      "time": "2024-10-11T15:07:59.000000",
+      "grubTime": "2024-10-11T15:08:10.679277",
+      "content": "《学术讨论》 || @[KukCair](/user/767449) : https://lglg.top/956739 || @[JOE_ZengYuQiao_0928](/user/853792) : 神贴",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 4513891,
+      "time": "2024-10-12T13:19:06.000000",
+      "grubTime": "2024-10-12T13:19:11.835899",
+      "content": "|| @[liwenxi114514](/user/661913) : I AK IOI 2024 Day1 Day2",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 4519084,
+      "time": "2024-10-05T14:24:52.000000",
+      "grubTime": "2024-10-12T23:50:34.220133",
+      "content": "|| @[KukCair](/user/767449) : 爆破洛谷，非人哉。 ||\n@[zhouyoyo](/user/724190) : 与人期行，非人哉。\n过中不至，非人哉。\n下车引之，非人哉。\n对子骂父，非人哉。",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 4530764,
+      "time": "2024-10-14T18:49:16.000000",
+      "grubTime": "2024-10-14T18:49:21.532971",
+      "content": "其实是“自动封号机”|| @[liyifan202201](/user/661094) : ACwing 自动 AC 机编写者吃瓜中（） || @[CodingOIer](/user/754324) : 终究有勇敢的人实现了我不敢实现的项目\nhttps://github.com/ACBot-dev/ACBot-for-Luogu",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 4530777,
+      "time": "2024-10-14T18:50:25.000000",
+      "grubTime": "2024-10-14T18:50:37.027582",
+      "content": "[神奇界面](https://www.luogu.com.cn/feed/watching?page=1)",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 4531341,
+      "time": "2024-10-14T20:00:47.000000",
+      "grubTime": "2024-10-14T20:00:54.205118",
+      "content": "|| @[KukCair](/user/767449) : ![](https://cdn.luogu.com.cn/upload/image_hosting/sqv4y4c3.png)",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 4531400,
+      "time": "2024-10-14T20:06:23.000000",
+      "grubTime": "2024-10-14T20:06:29.561781",
+      "content": "论[某人](https://www.luogu.com.cn/user/697932)拿着一道没有单调性的题找我Hack他的二分",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 4540081,
+      "time": "2024-10-16T09:18:28.000000",
+      "grubTime": "2024-10-16T09:18:43.561019",
+      "content": "啊？ || @[lihongqian__int128](/user/770891) : 国足赢了？ || @[JOE_ZengYuQiao_0928](/user/853792) : 我肯定最近没睡好，怎么都出幻觉了   || @[Stars_visitor_tyw](/user/941575) : 我肯定最近没睡好，怎么都出幻觉了  || @[crz_qwq](/user/795344) : 我肯定最近",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 4547735,
+      "time": "2024-10-17T17:09:32.000000",
+      "grubTime": "2024-10-17T17:09:40.640041",
+      "content": "听说洛谷被人机占领了喵~ 不知道是真是假呢~ 有人能给我解答一下吗？喵~✨ || @[imzfx_Square](/user/936183) : 逆天。【内容疑似 AI 生成，请仔细甄别。】 || @[General0826](/user/1351126) : 目前并没有确切证据表明洛谷被人机占领了哦。仅仅因为内容疑似 AI 生成就得出被人机占",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 4547748,
+      "time": "2024-10-17T17:10:52.000000",
+      "grubTime": "2024-10-17T17:10:55.875735",
+      "content": "【再来一句】哎呀，听说洛谷被人机占领了嘛？好奇怪喵~ 有人在吗？快来告诉我真相呀~ 喵~✨???? || @[GCSG01](/user/1032267) : 听说洛谷被人机占领了喵~ 不知道是真是假呢~ 有人能给我解答一下吗？喵~✨ || @[imzfx_Square](/user/936183) : 逆天。【内容疑似 AI 生成，请仔细甄别",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 4547796,
+      "time": "2024-10-17T17:14:58.000000",
+      "grubTime": "2024-10-17T17:15:17.776156",
+      "content": "逆天【内容疑似 AI 生成，请仔细甄别。】 || @[sLMxf](/user/752953) : 幸好我 AFO 了，不用考（逃 || @[shixuanzhe_ha](/user/661984) : ![](https://cdn.luogu.com.cn/upload/image_hosting/8202gkd7.png)",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 4547818,
+      "time": "2024-10-17T17:17:00.000000",
+      "grubTime": "2024-10-17T17:17:08.446531",
+      "content": "我：请问Kind_aunt是谁\nAI:Kind_aunt 是个很有趣的人哦~ 他们在洛谷上活跃，可能和算法或者题目相关，大家都很喜欢他们！具体信息可以去问问身边的小伙伴，喵~✨",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 4547822,
+      "time": "2024-10-17T17:17:26.000000",
+      "grubTime": "2024-10-17T17:17:34.773093",
+      "content": "kind_aunt=他们 || @[GCSG01](/user/1032267) : 我：请问Kind_aunt是谁\nAI:Kind_aunt 是个很有趣的人哦~ 他们在洛谷上活跃，可能和算法或者题目相关，大家都很喜欢他们！具体信息可以去问问身边的小伙伴，喵~✨",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 4551387,
+      "time": "2024-10-18T11:45:59.000000",
+      "grubTime": "2024-10-18T11:46:04.083825",
+      "content": "![](https://cdn.luogu.com.cn/upload/image_hosting/gl47fz5l.png) || @[sLMxf](/user/752953) : 博客园1.0.2更新。更新了以下内容\n\n线条\n图标",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 4551388,
+      "time": "2024-10-18T11:45:55.000000",
+      "grubTime": "2024-10-18T11:46:04.086075",
+      "content": "%%% || @[sLMxf](/user/752953) : 博客园1.0.2更新。更新了以下内容\n\n线条\n图标",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 4551392,
+      "time": "2024-10-18T11:46:23.000000",
+      "grubTime": "2024-10-18T11:46:38.748944",
+      "content": "贡献一张背景图![](https://cdn.luogu.com.cn/upload/image_hosting/gl47fz5l.png)  || @[sLMxf](/user/752953) : 博客园1.0.2更新。更新了以下内容\n线条\n图标",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 4551430,
+      "time": "2024-10-18T12:00:11.000000",
+      "grubTime": "2024-10-18T12:00:17.016857",
+      "content": "%%%|| @[endswitch](/user/773915) : IAKIOI",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 4551433,
+      "time": "2024-10-18T12:01:02.000000",
+      "grubTime": "2024-10-18T12:01:08.795193",
+      "content": "论刚才cy好像看见了这张图片……|| @[imzfx_Square](/user/936183) : JUST DO IT. || @[endswitch](/user/773915) : https://cdn.luogu.com.cn/upload/image_hosting/kl4xi6py.png",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 4551629,
+      "time": "2024-10-18T12:51:57.000000",
+      "grubTime": "2024-10-18T12:52:13.728280",
+      "content": "逆天 || @[liyifan202201](/user/661094) : JUST DO IT.![](https://cdn.luogu.com.cn/upload/image_hosting/heuci7s0.png)  || @[imzfx_Square](/user/936183) : JUST DO IT. || @endswi",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 4551638,
+      "time": "2024-10-18T12:52:50.000000",
+      "grubTime": "2024-10-18T12:52:56.187679",
+      "content": "Gengen（已经到了楼梯间）:走，我们去打球\n\n puck（刚从机房出来）:打什么球|| @[sLMxf](/user/752953) : 因为史莱姆被当做篮球了，所以我是篮球先锋",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 4552179,
+      "time": "2024-10-18T14:16:55.000000",
+      "grubTime": "2024-10-18T14:17:08.306368",
+      "content": "? || @[sLMxf](/user/752953) : 我想改名:https://www.luogu.com.cn/paste/3k9lb75j",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 4555357,
+      "time": "2024-10-18T20:25:45.000000",
+      "grubTime": "2024-10-18T20:25:57.571727",
+      "content": "【内容疑似由AI生成，请注意甄别】莱德是个很厉害的人哦，大家都很崇拜他呢！你对莱德有什么特别的想法吗？喵~✨",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 4577004,
+      "time": "2024-10-21T07:52:17.000000",
+      "grubTime": "2024-10-21T07:52:35.193466",
+      "content": "逆天 || @[liyifan202201](/user/661094) : 爱了吗？![](https://cdn.luogu.com.cn/upload/image_hosting/wqxzpwlg.png)![](https://cdn.luogu.com.cn/upload/image_hosting/",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 4579997,
+      "time": "2024-10-21T16:34:02.000000",
+      "grubTime": "2024-10-21T16:34:12.863278",
+      "content": "[建议降绿](https://lglg.top/968196)",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 4580022,
+      "time": "2024-10-21T16:37:17.000000",
+      "grubTime": "2024-10-21T16:37:30.133608",
+      "content": "[建议降绿2](https://lglg.top/968282)",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 4582055,
+      "time": "2024-10-21T20:13:35.000000",
+      "grubTime": "2024-10-21T20:13:43.372825",
+      "content": "……\n\n![](https://cdn.luogu.com.cn/upload/image_hosting/i9vseh1l.png)",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 4587278,
+      "time": "2024-10-22T14:30:28.000000",
+      "grubTime": "2024-10-22T14:30:42.690430",
+      "content": "|| @[endswitch](/user/773915) : puck 开始展现喜剧人天赋。",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 4595221,
+      "time": "2024-10-23T13:21:57.000000",
+      "grubTime": "2024-10-23T13:22:15.343807",
+      "content": "<https://lglg.top/970509>",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 4595820,
+      "time": "2024-10-23T14:33:55.000000",
+      "grubTime": "2024-10-23T14:34:00.019600",
+      "content": "Teacher:注意安全\nMMY:肘死你",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 4603157,
+      "time": "2024-10-24T08:10:05.000000",
+      "grubTime": "2024-10-24T08:10:16.370096",
+      "content": "|| @[imzfx_Square](/user/936183) : 今天是 10.24，程序员节快乐",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 4604789,
+      "time": "2024-10-24T13:44:15.000000",
+      "grubTime": "2024-10-24T13:44:19.619191",
+      "content": "T1爆挂35pt|| @[endswitch](/user/773915) : 喜报，最后一场模拟赛暴挂 100 + 30 + 40 = 170 分，RP += 170。",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 4607626,
+      "time": "2024-10-24T18:46:14.000000",
+      "grubTime": "2024-10-24T18:46:24.243084",
+      "content": "|| @[Im_Klee](/user/1431944) : 今天是 10.24，可莉在这里祝所有 OIer + AFOer 程序员节快乐",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 4614578,
+      "time": "2024-10-25T10:52:09.000000",
+      "grubTime": "2024-10-25T10:52:19.416752",
+      "content": "[每日对线](https://lglg.top/973372)",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 4615524,
+      "time": "2024-10-25T13:10:46.000000",
+      "grubTime": "2024-10-25T13:11:01.198451",
+      "content": "|| @[liyifan202201](/user/661094) : @[FIRESTARS](/user/1073342) @[zhoufangyouxi](/user/1419446)\n火星死了！！！",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 4616368,
+      "time": "2024-10-25T15:12:20.000000",
+      "grubTime": "2024-10-25T15:12:23.845535",
+      "content": "最后一天搞机房卫生，rp++",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 4619583,
+      "time": "2024-10-25T19:36:30.000000",
+      "grubTime": "2024-10-25T19:36:39.876358",
+      "content": "CSP-S2024 RP++",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 4621431,
+      "time": "2024-10-25T20:56:00.000000",
+      "grubTime": "2024-10-25T20:56:15.894953",
+      "content": "祝大家 **AK CSP 2024**",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 4625611,
+      "time": "2024-10-26T09:28:16.000000",
+      "grubTime": "2024-10-26T09:28:36.142765",
+      "content": "RP++",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 4632987,
+      "time": "2024-10-27T08:07:07.000000",
+      "grubTime": "2024-10-27T08:07:18.491514",
+      "content": "`#LHMC`     ？ || @[liyifan202201](/user/661094) : 解压密码是什么？ || @[kevin1616](/user/703489) : 今天 CSP-S 文件解压密码包含MC",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 4636719,
+      "time": "2024-10-27T17:29:05.000000",
+      "grubTime": "2024-10-27T17:29:16.300770",
+      "content": "补作业.png",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 4672636,
+      "time": "2024-11-04T12:28:35.000000",
+      "grubTime": "2024-11-04T12:28:45.795298",
+      "content": "S 组今天中午 1 点出分，J 组下午 4 点出分\n\n<https://cspsjtest.noi.cn/>",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 4672642,
+      "time": "2024-11-04T12:29:28.000000",
+      "grubTime": "2024-11-04T12:29:34.480673",
+      "content": "S 组今天中午 1 点出分，J 组下午 4 点出分\n\n<https://cspsjtest.noi.cn/>\n\n##### 要寄了！",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 4673172,
+      "time": "2024-11-04T13:03:48.000000",
+      "grubTime": "2024-11-04T13:03:55.827491",
+      "content": "《成绩单未上传，请稍后查看！》",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 4673331,
+      "time": "2024-11-04T13:14:38.000000",
+      "grubTime": "2024-11-04T13:14:44.836578",
+      "content": "|| @[liyifan202201](/user/661094) : \n```fuck ccf\n选手报名已结束,初评成绩发布时间:2024-11-04 16时00分\n教师审核已结束,初评成绩发布时间:2024-11-04 16时00分\n```\n特派员提交报名已结束,初评成绩发布时间:2024-11-04 16",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 4673334,
+      "time": "2024-11-04T13:15:00.000000",
+      "grubTime": "2024-11-04T13:15:13.747751",
+      "content": "|| @[liyifan202201](/user/661094) : \n```fuck ccf\n选手报名已结束,初评成绩发布时间:2024-11-04 16时00分\n教师审核已结束,初评成绩发布时间:2024-11-04 16时00分\n特派员提交报名已结束,初评成绩发布时间:2024-11-04 16时00分",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 4680676,
+      "time": "2024-11-05T12:24:22.000000",
+      "grubTime": "2024-11-05T12:24:27.399581",
+      "content": "%%% || @[sLMxf](/user/752953) : 你们逆天了，就我一个打挂了的160是吧？",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 4715419,
+      "time": "2024-11-12T12:01:53.000000",
+      "grubTime": "2024-11-12T12:02:01.079310",
+      "content": "%%%拜谢小枫 || @[sLMxf](/user/752953) : @[tzhengqing](/user/1058570) @zhouyoyo @[imzfx_Square](/user/936183) @[General0826](/user/1351126) @xzq4121 @[JOE_zengyuqiao_0928](/user/853792) || @[sLMxf](/user/752953) : https://www.luogu.com.cn/past",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 4715723,
+      "time": "2024-11-12T13:15:34.000000",
+      "grubTime": "2024-11-12T13:15:43.340875",
+      "content": "%%% || @[kind_aunt](/user/926886) : I AK IOI",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 4721949,
+      "time": "2024-11-13T19:53:24.000000",
+      "grubTime": "2024-11-13T19:53:32.377599",
+      "content": "求助：在CSP-S集训时同桌Ki*****nt 一直在叫 “三折叠～……”，现在换了个同桌 xz***21 又开始喜欢时代少年团，如何解决？",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 4721962,
+      "time": "2024-11-13T19:54:06.000000",
+      "grubTime": "2024-11-13T19:54:16.242171",
+      "content": "求助：在CSP-S集训时同桌$\\rm Ki*****nt$ 一直在叫 “三折叠～……”，现在换了个同桌 $\\rm xz***21$ 又开始喜欢时代少年团，如何解决？",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 4721971,
+      "time": "2024-11-13T19:55:23.000000",
+      "grubTime": "2024-11-13T19:55:31.270707",
+      "content": "求助：在CSP-S集训时同桌 Ki\\*\\*\\*\\*\\*nt 一直在叫 “三折叠～……”，现在换了个同桌 xz\\*\\*\\*21 又开始喜欢时代少年团，如何解决？",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 4721983,
+      "time": "2024-11-13T19:56:22.000000",
+      "grubTime": "2024-11-13T19:56:40.876909",
+      "content": "『 此内容疑似由xf伪造，请注意甄别』|| @[sLMxf](/user/752953) : 居然让你看出来了，下次记得用英文冒号 || @[General0826](/user/1351126) : 我没有发这个，XF 造假犇 || @[sLMxf](/user/752953) : || @[General0826](/user/1351126) : 我上切 NOI，下切 CSP，IOI 是谁我不认识",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 4721993,
+      "time": "2024-11-13T19:57:09.000000",
+      "grubTime": "2024-11-13T19:57:24.452296",
+      "content": "『 此内容疑似由xf伪造，请注意甄别』 || @[sLMxf](/user/752953) : || @[General0826](/user/1351126) ：我上切 NOI，下切 CSP，IOI 是谁我不认识",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 4722037,
+      "time": "2024-11-13T20:04:05.000000",
+      "grubTime": "2024-11-13T20:04:14.069002",
+      "content": "时代马戏团，小枫喜欢你！小枫喜欢......  || @[sLMxf](/user/752953) : 时代马戏团，我们喜欢你！我们喜欢...... || @[GCSG01](/user/1032267) : 求助：在CSP-S集训时同桌 Ki**nt 一直在叫 “三折叠～……”，现在换了个同桌 xz21 又开始喜欢时代少年团，如何解决？",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 4722116,
+      "time": "2024-11-13T20:15:58.000000",
+      "grubTime": "2024-11-13T20:16:04.195546",
+      "content": "好唐啊！",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 4723642,
+      "time": "2024-11-14T09:56:50.000000",
+      "grubTime": "2024-11-14T09:56:54.269272",
+      "content": "『 此内容疑似由xf伪造，请注意甄别』|| @[sLMxf](/user/752953) : || @[crz_qwq](/user/795344) : 彩就多链，我上切 @FIRESTARS，下切 @shixuanzhe_ha，@zhoufangyouxi 是谁我不认识 || @[imzfx_Square](/user/936183) : 我上切 NOI，下切 CSP，左",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 4723644,
+      "time": "2024-11-14T09:57:11.000000",
+      "grubTime": "2024-11-14T09:57:18.303347",
+      "content": "『 此内容疑似由xf生成，请注意甄别』|| @[sLMxf](/user/752953) : || @[crz_qwq](/user/795344) : 彩就多链，我上切 @FIRESTARS，下切 @shixuanzhe_ha，@zhoufangyouxi 是谁我不认识 || @[imzfx_Square](/user/936183) : 我上切 NOI，下切 CSP，左",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 4723665,
+      "time": "2024-11-14T10:06:10.000000",
+      "grubTime": "2024-11-14T10:06:19.526303",
+      "content": "|| @[sLMxf](/user/752953) : 今天我要制裁 @[crz_qwq](/user/795344) ，想要加入我的在后面 || 一下。",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 4723690,
+      "time": "2024-11-14T10:13:10.000000",
+      "grubTime": "2024-11-14T10:13:22.025060",
+      "content": "抛开zfx不谈，我们可以玩Genshin || @[imzfx_Square](/user/936183) : 你们被禁止启动原神。 || @[GCSG01](/user/1032267) : || @[sLMxf](/user/752953) : 今天我要制裁 @[crz_qwq](/user/795344) ，想要加入我的在后面 || 一下。",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 4724913,
+      "time": "2024-11-14T15:58:10.000000",
+      "grubTime": "2024-11-14T15:58:18.183430",
+      "content": "|| @[sLMxf](/user/752953) : （正式版）今天我要告@[crz_qwq](/user/795344) ，你们谁要帮我，乱搞者拉黑",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 4726042,
+      "time": "2024-11-14T20:23:51.000000",
+      "grubTime": "2024-11-14T20:24:05.084434",
+      "content": "|| @[_saltFish_](/user/661044) : 出于不知道什么样的精神状态，我写下了\n源代码 - C++复制#define ls (u >> 1)\n#define rs (u >> 1 | 1)",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 4728052,
+      "time": "2024-11-15T13:06:52.000000",
+      "grubTime": "2024-11-15T13:07:03.097859",
+      "content": "论机房用私信玩狼人杀这回事……",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 4728519,
+      "time": "2024-11-15T15:54:34.000000",
+      "grubTime": "2024-11-15T15:54:41.056300",
+      "content": "真的 || @[sLMxf](/user/752953) : @[kind_aunt](/user/926886) ：我认为紫名金钩最好看。\n其他人：啊？\n@[kind_aunt](/user/926886) ：这不简单。",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 4728634,
+      "time": "2024-11-15T16:26:33.000000",
+      "grubTime": "2024-11-15T16:26:41.392119",
+      "content": "这个颜色好看的 || @[sLMxf](/user/752953) : ![](https://cdn.luogu.com.cn/upload/image_hosting/7e2l4mg9.png)",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 4731103,
+      "time": "2024-11-15T22:03:03.000000",
+      "grubTime": "2024-11-15T22:03:09.361140",
+      "content": "懂了，二分ZZZ的不歪概率 || @[imzfx_Square](/user/936183) : 戳了，我现在在学整体二分 || @[sLMxf](/user/752953) : 原来你是回家玩 ZZZ 的啊 || @[imzfx_Square](/user/936183) : 三个双爆驱动盘共歪 1 次，感觉还活着是个奇迹。",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 4731182,
+      "time": "2024-11-15T22:10:06.000000",
+      "grubTime": "2024-11-15T22:10:16.728288",
+      "content": "哦，整体二分ZZZ所有的不歪概率 || @[imzfx_Square](/user/936183) : 添柴，但是我在存菲林，一时半会还不抽角色 || @[GCSG01](/user/1032267) : 懂了，二分ZZZ的不歪概率 || @[imzfx_Square](/user/936183) : 戳了，我现在在学整体二分 || @[sLMxf](/user/752953) : 原来你是回家玩 ZZZ ",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 4733662,
+      "time": "2024-11-16T13:15:08.000000",
+      "grubTime": "2024-11-16T13:15:17.551456",
+      "content": "论 [CF](https://codeforces.com/) 首页放 Genshin 这回事......",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 4735239,
+      "time": "2024-11-16T16:36:42.000000",
+      "grubTime": "2024-11-16T16:36:55.493599",
+      "content": "6 || @[sLMxf](/user/752953) : 接收到了 @[kind_aunt](/user/926886) 的 cookie",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 4738625,
+      "time": "2024-11-17T08:27:56.000000",
+      "grubTime": "2024-11-17T10:29:32.276475",
+      "content": "|| @[endswitch](/user/773915) : 明天 Div.3 怎么有 Genshin 混入？原神玩家吃枣药丸。",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 4739867,
+      "time": "2024-11-17T13:19:33.000000",
+      "grubTime": "2024-11-17T13:19:42.637032",
+      "content": "? || @[liyifan202201](/user/661094) : 突然想成为倒数第一",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 4743844,
+      "time": "2024-11-18T08:02:28.000000",
+      "grubTime": "2024-11-18T08:02:33.402221",
+      "content": "啥? || @[imzfx_Square](/user/936183) : 什么东西 || @[sLMxf](/user/752953) : 小号打了 40w，不服来战",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 4744122,
+      "time": "2024-11-18T10:04:10.000000",
+      "grubTime": "2024-11-18T10:04:18.497413",
+      "content": "> 证书申请已截止！",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 4744125,
+      "time": "2024-11-18T10:05:02.000000",
+      "grubTime": "2024-11-18T10:05:08.025292",
+      "content": ".|| @[imzfx_Square](/user/936183) : 好 || @[General0826](/user/1351126) : 活动证书，未上传",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 4744143,
+      "time": "2024-11-18T10:10:49.000000",
+      "grubTime": "2024-11-18T10:10:58.942344",
+      "content": "`最终成绩发布时间\t2024-11-20 10时00分 起`",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 4744182,
+      "time": "2024-11-18T10:18:31.000000",
+      "grubTime": "2024-11-18T10:18:38.592946",
+      "content": "没想到防住了面北的诈骗，却没防住CCF",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 4744839,
+      "time": "2024-11-18T13:44:43.000000",
+      "grubTime": "2024-11-18T13:44:53.176654",
+      "content": "入门赛rk30肯定红啊|| @[liyifan202201](/user/661094) : 睡了一觉，发现红了...\n没打一道题啊!",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 4744912,
+      "time": "2024-11-18T14:01:18.000000",
+      "grubTime": "2024-11-18T14:01:36.955295",
+      "content": "|| @[liyifan202201](/user/661094) : ![](https://cdn.luogu.com.cn/upload/image_hosting/uziyea8e.png)",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 4750633,
+      "time": "2024-11-19T18:15:40.000000",
+      "grubTime": "2024-11-19T18:15:47.081138",
+      "content": "|| @[liyifan202201](/user/661094) : 讲个笑话：提高组二等奖全省第一",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 4750637,
+      "time": "2024-11-19T18:16:02.000000",
+      "grubTime": "2024-11-19T18:16:16.779614",
+      "content": "|| @[xiezheyuan](/user/413065) : || @[puck](/user/12541) : 为什么我的学生没有IOI金牌，这一点也不牛",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 4750712,
+      "time": "2024-11-19T18:24:35.000000",
+      "grubTime": "2024-11-19T18:24:42.993501",
+      "content": "CCF这波操作属实难绷",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 4751351,
+      "time": "2024-11-19T19:38:51.000000",
+      "grubTime": "2024-11-19T19:38:57.562295",
+      "content": "正确的|| @[liyifan202201](/user/661094) : 160分一中系大全 || @[sLMxf](/user/752953) : 真有趣，点赞了 || @[xzq4121](/user/1054119) : @[liyifan202201](/user/661094) @[sLMxf](/user/752953) 笑点解析：古有《戊戌六君子》，今有《提二三君子》",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 4754172,
+      "time": "2024-11-20T09:26:11.000000",
+      "grubTime": "2024-11-20T09:26:21.613718",
+      "content": "|| @[sLMxf](/user/752953) : 这个链接有效了 @ 我一下：https://www.luogu.com.cn/discuss/1000000",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 4754174,
+      "time": "2024-11-20T09:26:55.000000",
+      "grubTime": "2024-11-20T09:27:01.266309",
+      "content": "这个有效了 @ 我一下 ： https://www.luogu.com.cn/discuss/999999|| @[sLMxf](/user/752953) : 这个链接有效了 @ 我一下：https://www.luogu.com.cn/discuss/1000000",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 4754348,
+      "time": "2024-11-20T10:27:12.000000",
+      "grubTime": "2024-11-20T10:27:24.587215",
+      "content": "[冬日绘版](https://paintboard.ayakacraft.com/)",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 4755716,
+      "time": "2024-11-20T16:12:35.000000",
+      "grubTime": "2024-11-20T16:12:45.832269",
+      "content": "虚假的，jj 其实具有软弱性|| @[sLMxf](/user/752953) : %%% || @[General0826](/user/1351126) : 我是 JJ,我是 JJ,我是最强 JJ  ！",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 4759304,
+      "time": "2024-11-21T10:05:17.000000",
+      "grubTime": "2024-11-21T10:05:21.988334",
+      "content": "[冬日绘版](https://paintboard.ayakacraft.com/)",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 4760739,
+      "time": "2024-11-21T16:15:57.000000",
+      "grubTime": "2024-11-21T16:16:18.691839",
+      "content": "[启动](https://paintboard.ayakacraft.com/) || @[General0826](/user/1351126) : 冬日绘版 一中校徽 计划启动！![](https://s2.loli.net/2024/11/21/rAav6LgoDTJRQ9t.png)",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 4760828,
+      "time": "2024-11-21T16:44:32.000000",
+      "grubTime": "2024-11-21T16:44:45.554985",
+      "content": "YES!|| @[imzfx_Square](/user/936183) : 左下角 GBC 瞩目 || @[imzfx_Square](/user/936183) : cssyz！![](https://cdn.luogu.com.cn/upload/image_hosting/hzn35pca.png)",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 4764616,
+      "time": "2024-11-22T14:18:59.000000",
+      "grubTime": "2024-11-22T14:19:06.322680",
+      "content": "震惊，机房中多人围在一起，竟是为了……王",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 4764621,
+      "time": "2024-11-22T14:19:35.000000",
+      "grubTime": "2024-11-22T14:19:50.568076",
+      "content": "震惊，机房中多人围在一起，竟是为了……玩名字大乱斗",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 4780700,
+      "time": "2024-11-25T07:59:52.000000",
+      "grubTime": "2024-11-25T08:00:01.236903",
+      "content": "上一世，[我](luogu:/user/752953) 被 puck 所欺骗，逐出了机房，流落在 yz 校园，这一世，[我](luogu:/user/752953) 一定要夺回属于 [我](luogu:/user/752953) 的一切|| @[sLMxf](/user/752953) : noip，我，回，来",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 4780702,
+      "time": "2024-11-25T08:00:20.000000",
+      "grubTime": "2024-11-25T08:00:26.221861",
+      "content": "上一世，[我](/user/752953) 被 puck 所欺骗，逐出了机房，流落在 yz 校园，这一世，[我](/user/752953) 一定要夺回属于 [我](/user/752953) 的一切|| @[sLMxf](/user/752953) : noip，我，回，来，了！",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 4780714,
+      "time": "2024-11-25T08:03:52.000000",
+      "grubTime": "2024-11-25T08:03:57.025254",
+      "content": "快向 @[imzfx_square](/user/936183) 学习整体二分，保证不歪  || @[sLMxf](/user/752953) : 我喜欢 || @[Wind_Leaves_ShaDow](/user/807774) : ![](https://cdn.luogu.com.cn/upload/image_hosting/ip58v2on.png)\n\n没蚌住。",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 4782593,
+      "time": "2024-11-25T16:52:13.000000",
+      "grubTime": "2024-11-25T16:52:27.676310",
+      "content": "《答谢中书书》 || @[xzq4121](/user/1054119) : || @[sLMxf](/user/752953) : 自康乐以来，未复有能与其奇者。 || @[imzfx_Square](/user/936183) : 实是欲界之仙都。 || @[General0826](/user/1351126) : 夕日欲颓，沉鳞竞跃。 || @[dzhjntm](/user/1036010) : 晓雾将歇，猿鸟乱鸣。 || @zhan",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 4785887,
+      "time": "2024-11-26T11:11:47.000000",
+      "grubTime": "2024-11-26T11:11:52.290210",
+      "content": "啊？|| @[sLMxf](/user/752953) : 还真能输入文本！ || @[LiWenX](/user/987564) : 原神启动",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 4785906,
+      "time": "2024-11-26T11:20:41.000000",
+      "grubTime": "2024-11-26T11:20:56.392619",
+      "content": "被迫迁都，迁往3楼，电脑动不动就 CPU 100%",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 4786941,
+      "time": "2024-11-26T15:24:50.000000",
+      "grubTime": "2024-11-26T15:24:58.881431",
+      "content": "|| @[liyifan202201](/user/661094) : 史上最强洛谷账号：@[liyifan202201](/user/661094) 可以自动刷题，刷比赛。",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 4790511,
+      "time": "2024-11-26T21:16:47.000000",
+      "grubTime": "2024-11-26T21:17:02.426642",
+      "content": "发勾了！",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 4804739,
+      "time": "2024-11-29T08:18:32.000000",
+      "grubTime": "2024-11-29T08:18:38.607833",
+      "content": "|| @[_saltFish_](/user/661044) : NOIp rp++",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 4812189,
+      "time": "2024-11-30T09:25:07.000000",
+      "grubTime": "2024-11-30T09:25:17.452195",
+      "content": "|| @[sLMxf](/user/752953) : rp--，但是 unsigned __int128 || @[General0826](/user/1351126) : 祝 NOIP 2024 rp++",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 4817621,
+      "time": "2024-11-30T21:28:58.000000",
+      "grubTime": "2024-11-30T21:29:07.831635",
+      "content": "这下完了，就我一题都没写出来 || @[sLMxf](/user/752953) : 这下完了，就我觉得T1比T2简单",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 4817767,
+      "time": "2024-11-30T21:39:25.000000",
+      "grubTime": "2024-11-30T21:39:29.837572",
+      "content": "|| @[imzfx_Square](/user/936183) : || @[endswitch](/user/773915) : 你已经在洛谷连续打卡了 500 天",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 4818137,
+      "time": "2024-11-30T22:12:29.000000",
+      "grubTime": "2024-11-30T22:12:34.424031",
+      "content": "被puck看到游记就真寄了…… || @[imzfx_Square](/user/936183) : 逆天，NOIP 游记审完了，一周前的 tj 没审",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 4818206,
+      "time": "2024-11-30T22:22:55.000000",
+      "grubTime": "2024-11-30T22:23:09.223851",
+      "content": "额……（ || @[endswitch](/user/773915) : 只是你们既然能打 NOIP 就没怎么管你们。 || @[endswitch](/user/773915) : 其实 puck 都知道 || @[GCSG01](/user/1032267) : 被puck看到游记就真寄了…… || @[imzfx_Square](/user/936183) : 逆天，NOIP 游记审完了，一周前的 t",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 4821202,
+      "time": "2024-12-01T16:15:46.000000",
+      "grubTime": "2024-12-01T16:16:02.101953",
+      "content": "啊 我差一点就写出来了！！！( || @[sLMxf](/user/752953) : [不是 NOIP T1 真的比 T2 难吗？](https://www.luogu.com.cn/record/192231936)",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 4821293,
+      "time": "2024-12-01T16:43:00.000000",
+      "grubTime": "2024-12-01T16:43:05.371145",
+      "content": "你们都是巨佬 || @[sLMxf](/user/752953) : 话说大佬们都是 100+100+4+20=224 吗？我最多只有 100+20+4+0=124",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 4847178,
+      "time": "2024-12-08T13:14:17.000000",
+      "grubTime": "2024-12-08T13:14:28.943483",
+      "content": "在哪查？ || @[General0826](/user/1351126) : NOIP 85+100+4+0，A题莫名其妙高了五分",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 4861826,
+      "time": "2024-12-12T21:25:16.000000",
+      "grubTime": "2024-12-12T21:25:32.420019",
+      "content": "啊？ || @[endswitch](/user/773915) : 喜报：崩坏·星穹铁道节目荣获郡外好声音 季军。",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 4867192,
+      "time": "2024-12-14T10:47:25.000000",
+      "grubTime": "2024-12-14T10:47:31.120663",
+      "content": "|| @[sLMxf](/user/752953) : 大家好，我是 hash，我爆切 manacher\n[提交记录](https://www.luogu.com.cn/record/194329410)",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 4868171,
+      "time": "2024-12-14T13:37:38.000000",
+      "grubTime": "2024-12-14T13:37:50.796187",
+      "content": "<https://www.luogu.com.cn/feed/watching?page=37>",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 4868175,
+      "time": "2024-12-14T13:38:43.000000",
+      "grubTime": "2024-12-14T13:38:50.777026",
+      "content": "[洛谷神秘页面](https://www.luogu.com.cn/feed/watching)",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 4888602,
+      "time": "2024-12-19T21:10:42.000000",
+      "grubTime": "2024-12-19T21:10:57.371496",
+      "content": "好了，汪汪队准备出动了！ || @[imzfx_Square](/user/936183) : 毛毛，我需要你扑灭学校的火 || @[General0826](/user/1351126) : 坏了，学校着火发生到我身上了",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 4893571,
+      "time": "2024-12-21T10:17:29.000000",
+      "grubTime": "2024-12-21T10:17:39.529359",
+      "content": "冬至最适合大家一起倒了 || @[imzfx_Square](/user/936183) : 冬至我们一起吃→饺↓子↑ || @[sLMxf](/user/752953) : 冬至真的不适合打篮球吗？",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 4893925,
+      "time": "2024-12-21T11:10:40.000000",
+      "grubTime": "2024-12-21T11:11:00.074498",
+      "content": "吃grow→果↓冻↑，Q→Q↓的↑，有好多↑史→莱↓姆↑|| @[imzfx_Square](/user/936183) : 纯饿战神の肠胃无所畏惧 || @[kind_aunt](/user/926886) : 吃→篮↓球↑ || @[imzfx_Square](/user/936183) : 冬至我们一起吃→饺↓子↑ || @[sLMxf](/user/752953) : 冬至真的不适合打篮球吗？",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 4895988,
+      "time": "2024-12-21T16:50:48.000000",
+      "grubTime": "2024-12-21T16:50:59.955334",
+      "content": "%%%|| @[sLMxf](/user/752953) : 现在正是反击之时！",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 4904768,
+      "time": "2024-12-23T20:44:30.000000",
+      "grubTime": "2024-12-23T20:44:45.540107",
+      "content": "恭喜！ || @[liyifan202201](/user/661094) : NeoForge 接口破解成功！！[](https://cdn.luogu.com.cn/upload/image_hosting/umv02uyw.png)",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 4915347,
+      "time": "2024-12-26T20:48:50.000000",
+      "grubTime": "2024-12-26T20:49:04.092362",
+      "content": "用户名吗》 || @[sLMxf](/user/752953) : 现在可以改名了，征名。",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 4915348,
+      "time": "2024-12-26T20:49:09.000000",
+      "grubTime": "2024-12-26T20:49:18.037927",
+      "content": "坏了，今天灾厄药水喝多了……",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 4937184,
+      "time": "2025-01-01T10:23:13.000000",
+      "grubTime": "2025-01-01T10:23:22.573187",
+      "content": "2025,新年快乐！",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 4938089,
+      "time": "2025-01-01T14:31:09.000000",
+      "grubTime": "2025-01-01T14:31:18.291636",
+      "content": "我也睡了…|| @[sLMxf](/user/752953) : 就我晚上睡觉去了？ || @[General0826](/user/1351126) : 跨年了",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 4946805,
+      "time": "2025-01-03T21:48:10.000000",
+      "grubTime": "2025-01-03T21:48:25.519153",
+      "content": "今年你一共敲下了 532.23kB 代码 今年你最常做的算法有模拟，动态规划 DP，数学",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 4954555,
+      "time": "2025-01-05T16:30:41.000000",
+      "grubTime": "2025-01-05T16:30:44.705410",
+      "content": "怀疑cz用评测机玩原神",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 4964898,
+      "time": "2025-01-08T17:52:18.000000",
+      "grubTime": "2025-01-08T17:52:26.485341",
+      "content": "orz || @[imzfx_Square](/user/936183) : 第一道独立调出的线段树紫题",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 4964903,
+      "time": "2025-01-08T17:53:31.000000",
+      "grubTime": "2025-01-08T17:53:39.654961",
+      "content": "如果语文上了100，就把作文版的冬至吃饺子写到专栏里",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 4988329,
+      "time": "2025-01-14T10:44:15.000000",
+      "grubTime": "2025-01-14T10:44:23.989790",
+      "content": "生快生|| @[sLMxf](/user/752953) : 请说生快谢谢 || @[Stone_Xz](/user/661984) : 快生 || @[JOE_ZengYuQiao_0928](/user/853792) : 慢生 || @[Stars_visitor_tyw](/user/941575) : 快生 || @[tzhengqing](/user/1058570) : 快生|| @[sLMxf](/user/752953) : @[sLMxf](/user/752953) : || @",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 5005567,
+      "time": "2025-01-17T14:55:53.000000",
+      "grubTime": "2025-01-17T14:56:03.726181",
+      "content": "[验证码练习](https://vjudge.net/util/luogu/captcha)",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 5009010,
+      "time": "2025-01-18T08:11:39.000000",
+      "grubTime": "2025-01-18T08:11:52.177548",
+      "content": "|| @[lihongqian__int128](/user/770891) : %%% || @[endswitch](/user/773915) : IAKIOI",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 5029265,
+      "time": "2025-01-20T15:44:35.000000",
+      "grubTime": "2025-01-20T15:44:47.677992",
+      "content": "![](https://cdn.luogu.com.cn/upload/image_hosting/5jhy1bkc.png)",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 5029269,
+      "time": "2025-01-20T15:44:51.000000",
+      "grubTime": "2025-01-20T15:45:02.275773",
+      "content": "|| @[sLMxf](/user/752953) : 服了，发什么都会被举报，这年头luogu能不能不要用估值来评价一切啊！",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 5055267,
+      "time": "2025-01-22T14:03:58.000000",
+      "grubTime": "2025-01-25T22:22:11.689397",
+      "content": "警示后人：数据生成器用 `unsigned int` 时，切记不要开 `#define int long long`",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 5055268,
+      "time": "2025-01-22T14:55:16.000000",
+      "grubTime": "2025-01-25T22:22:11.688647",
+      "content": "|| @[endswitch](/user/773915) : @[CJ_Fu](/user/539344) 我是 @[zhangyangwei](/user/1430595) 的爸爸，我喜欢你。",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 5055269,
+      "time": "2025-01-24T19:44:33.000000",
+      "grubTime": "2025-01-25T22:22:11.688341",
+      "content": "%%% || @[sLMxf](/user/752953) : ![]()",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 5055270,
+      "time": "2025-01-24T21:53:16.000000",
+      "grubTime": "2025-01-25T22:22:11.687929",
+      "content": "只有我要卸载360时，它才会让我改浏览器主页",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 5079981,
+      "time": "2025-01-28T20:06:04.000000",
+      "grubTime": "2025-01-29T10:35:49.877857",
+      "content": "除夕快乐！rp+++",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 5079982,
+      "time": "2025-01-28T20:10:43.000000",
+      "grubTime": "2025-01-29T10:35:49.864399",
+      "content": "无聊给私信列表认识的发私信.ing",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 5079983,
+      "time": "2025-01-29T00:00:08.000000",
+      "grubTime": "2025-01-29T10:35:49.863385",
+      "content": "新年快乐 ！！！",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 5082253,
+      "time": "2025-01-29T15:09:46.000000",
+      "grubTime": "2025-01-29T18:28:20.033508",
+      "content": "哦，懂了 || @[sLMxf](/user/752953) : 红包＝red packet＝RP？！",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 5103291,
+      "time": "2025-02-03T13:53:44.000000",
+      "grubTime": "2025-02-04T04:05:04.336702",
+      "content": "A，∵ `JC` L ？ || @[liyifan202201](/user/661094) : 采访一下，喜欢哪个...\nA：GMCL：GenGen Minecraft Launcher\nB：JCL：JiangJun Craft Launcher",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 5108250,
+      "time": "2025-02-04T18:45:12.000000",
+      "grubTime": "2025-02-05T03:12:50.682473",
+      "content": "@[General0826](/user/1351126) ![](https://cdn.luogu.com.cn/upload/image_hosting/d9gd4ujq.png)",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 5125913,
+      "time": "2025-02-05T18:15:37.000000",
+      "grubTime": "2025-02-07T06:49:04.233083",
+      "content": "|| @[sLMxf](/user/752953) : ![](https://cdn.luogu.com.cn/upload/image_hosting/0zr6tayi.png)",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 5125914,
+      "time": "2025-02-06T18:59:53.000000",
+      "grubTime": "2025-02-07T06:49:04.232736",
+      "content": "58=3m light",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 5127154,
+      "time": "2025-02-07T08:38:49.000000",
+      "grubTime": "2025-02-07T09:55:27.827496",
+      "content": "8=1m stick！",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 5136444,
+      "time": "2025-02-07T21:01:21.000000",
+      "grubTime": "2025-02-08T06:59:13.247796",
+      "content": "2u bubble(生物）=2m air,7m=1u air",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 5136445,
+      "time": "2025-02-07T21:01:57.000000",
+      "grubTime": "2025-02-08T06:59:13.247380",
+      "content": "小枫和lrh是什么关系呢…… || @[sLMxf](/user/752953) : 你是 lrh 吗? || @[crz_qwq](/user/795344) : 次掉lrh人人有责！ || @LRH : 保护森林熊熊有责！（坚定 || @[Never_care](/user/931764) : 草拒绝炸铃人人有责",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 5153244,
+      "time": "2025-02-08T12:28:53.000000",
+      "grubTime": "2025-02-13T23:20:09.976999",
+      "content": "要开学了……",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 5153245,
+      "time": "2025-02-10T20:02:00.000000",
+      "grubTime": "2025-02-13T23:20:09.976718",
+      "content": "逆天，但我们10周年校庆|| @[General0826](/user/1351126) : 一中芙蓉——历史性更名为长沙市一中初中部！！！我们终于不是一中体系底层，一中双语颤抖吧——属于我们学校的时代，来了！",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 5153246,
+      "time": "2025-02-12T12:35:36.000000",
+      "grubTime": "2025-02-13T23:20:09.976461",
+      "content": "这叫废？|| @[sLMxf](/user/752953) : 入学考394/420，废掉了...",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 5153247,
+      "time": "2025-02-12T20:08:12.000000",
+      "grubTime": "2025-02-13T23:20:09.976229",
+      "content": "出校门时听到有人喊 “lrh” 是怎么回事",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 5153248,
+      "time": "2025-02-13T13:07:10.000000",
+      "grubTime": "2025-02-13T23:20:09.975805",
+      "content": "还说没转，我们学校的一块不知名的荣誉牌上都有 “李*涵”|| @[sLMxf](/user/752953) : 我没转学啊 || @[GCSG01](/user/1032267) : 出校门时听到有人喊 “lrh” 是怎么回事",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 5153249,
+      "time": "2025-02-13T21:08:21.000000",
+      "grubTime": "2025-02-13T23:20:09.974762",
+      "content": "|| @[General0826](/user/1351126) : 不知道是不是真的，好像我们拔尖创新人才的分数线好像又降分了 595->460",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 5178911,
+      "time": "2025-02-16T13:23:52.000000",
+      "grubTime": "2025-02-16T13:45:30.147988",
+      "content": "可怜一秒 || @[General0826](/user/1351126) : 我们 菜德玩家 还是理解不了|| @[yangyafan](/user/697932) : 确实有点|| @[sLMxf](/user/752953) : 91+116+93+94（语数英物），还不废？ || @[GCSG01](/user/1032267) : 这叫废？|| @[sLMxf](/user/752953) : 入学考394/420，废掉了...",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 5185941,
+      "time": "2025-02-18T13:06:59.000000",
+      "grubTime": "2025-02-18T13:12:12.173330",
+      "content": "什么抽象的时间(11:18:34，我们机房除了洛谷几乎都被ban了 || @[tzhengqing](/user/1058570) : 5min,florr9L=1M missile",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 5185942,
+      "time": "2025-02-18T13:07:51.000000",
+      "grubTime": "2025-02-18T13:12:12.173101",
+      "content": "语文老师怒斥一体机上的某知名病毒",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 5185943,
+      "time": "2025-02-18T13:08:47.000000",
+      "grubTime": "2025-02-18T13:12:12.172812",
+      "content": "一个小小的系统托盘承受了太多 || @[GCSG01](/user/1032267) : 语文老师怒斥一体机上的某知名病毒",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 5185944,
+      "time": "2025-02-18T13:09:32.000000",
+      "grubTime": "2025-02-18T13:12:12.172014",
+      "content": "啊？ || @[tzhengqing](/user/1058570) : 几秒前！|| @[GCSG01](/user/1032267) : 什么抽象的时间(11:18:34，我们机房除了洛谷几乎都被ban了 || @[tzhengqing](/user/1058570) : 5min,florr9L=1M missile",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 5200529,
+      "time": "2025-02-21T13:06:48.000000",
+      "grubTime": "2025-02-22T01:53:24.978937",
+      "content": "Square 怎么你了 || @[Short_person](/user/1499478) : Square AK me！！！(About write homework)",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 5203370,
+      "time": "2025-02-22T11:41:56.000000",
+      "grubTime": "2025-02-22T13:48:29.426980",
+      "content": "作为一名算法竞赛生，我会这样回复：\n\n@[General0826](/user/1351126) 初二废了？别慌，竞赛的路还长着呢，现在开始努力完全来得及！\n@[imzfx_Square](/user/936183) 无法战胜？别这么想，竞赛比的不是战胜别人，而是战胜自己，每次进步一点点就是胜利！\n@[pihongyi_1](/user/1030094) who??? 初一巨佬",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 5203371,
+      "time": "2025-02-22T11:42:12.000000",
+      "grubTime": "2025-02-22T13:48:29.426718",
+      "content": "已经 AK CSP-J 了，这就是传说中的“后浪”吧，压力山大啊 ????\n@[imzfx_Square](/user/936183) 机房偶遇巨佬，拼尽全力进入 OI 养老生活？养老是不可能的，卷起来！???? OI 的路上没有终点，只有更高的山峰！\n\n总结：竞赛路上，心态很重要！不要被别人的成绩吓到，也不要轻易放弃。每",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 5203372,
+      "time": "2025-02-22T11:42:24.000000",
+      "grubTime": "2025-02-22T13:48:29.426491",
+      "content": "个人都有自己的节奏，专注提升自己才是王道！加油！????",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 5203373,
+      "time": "2025-02-22T11:42:37.000000",
+      "grubTime": "2025-02-22T13:48:29.423028",
+      "content": "——来自 deepseek",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 5210280,
+      "time": "2025-02-23T13:44:57.000000",
+      "grubTime": "2025-02-23T16:30:01.448176",
+      "content": "生快快生|| @[_saltFish_](/user/661044) : 听说今天是[_saltFish_](/user/661044)的生日，转发这条犇犇就可以省选RP++。不知道是不是真的，但今天真的是[_saltFish_](/user/661044)的生日qwq",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 5225609,
+      "time": "2025-02-26T21:19:11.000000",
+      "grubTime": "2025-02-27T02:19:06.034187",
+      "content": "|| @[imzfx_Square](/user/936183) : 这 xzq 也是个人物 || @[zhangyaiwei](/user/684245) : 。 || @xzq4121：迷你世界大王，推胡桃，是胡桃梦男，磕胡桃散兵，拒同担扩列；  || @[Tachibana27](/user/663199) :\n迷你世界公主，推散兵，是散兵梦女，磕散兵胡桃，拒同担扩列",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 5238502,
+      "time": "2025-03-01T12:27:56.000000",
+      "grubTime": "2025-03-01T16:24:11.746642",
+      "content": "% || @[liyifan202201](/user/661094) : Orz & rp++ @[imzfx_square](/user/936183) @[general0826](/user/1351126)",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 5238503,
+      "time": "2025-03-01T15:58:34.000000",
+      "grubTime": "2025-03-01T16:24:11.745494",
+      "content": "啊？ || @[liyifan202201](/user/661094) : 工程施工\n启动！",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 5261813,
+      "time": "2025-03-06T12:34:15.000000",
+      "grubTime": "2025-03-06T16:21:25.620897",
+      "content": "|| @[General0826](/user/1351126) : 我是我们班的 “Gen” || @[General0826](/user/1351126) : 今天我 crush 问我和不和她处姐弟关系，我直接拒绝，因为按我们班辈分我是她爷爷",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 5268417,
+      "time": "2025-03-07T12:55:58.000000",
+      "grubTime": "2025-03-07T22:01:20.866800",
+      "content": "最喜欢体育老师的一集：体锻课发表激昂演讲，阐明了体锻就要做体育锻炼，跑操不一定要整齐的思想，获得了我校初二年级学生的一致通过",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 5268418,
+      "time": "2025-03-07T20:45:05.000000",
+      "grubTime": "2025-03-07T22:01:20.866152",
+      "content": "5m=1u light || @[tzhengqing](/user/1058570) : 20分钟出了17个青（11yucca+4bone+1corn+1light）",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 5272586,
+      "time": "2025-03-08T15:37:27.000000",
+      "grubTime": "2025-03-08T15:38:07.848510",
+      "content": "机房神秘方式在教师机上写出了《但》",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 5272723,
+      "time": "2025-03-08T15:43:30.000000",
+      "grubTime": "2025-03-08T15:55:02.089832",
+      "content": "![](https://cdn.luogu.com.cn/upload/image_hosting/qdhnh927.png)",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 5289637,
+      "time": "2025-03-11T20:25:21.000000",
+      "grubTime": "2025-03-11T20:46:34.010264",
+      "content": "掉什么了？ || @[imzfx_Square](/user/936183) : rammer 神力",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 5300315,
+      "time": "2025-03-14T18:24:44.000000",
+      "grubTime": "2025-03-14T18:36:21.441540",
+      "content": "强 || @[YQY__](/user/1038207) : 连出3u clover+1u corn，完了",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 5306136,
+      "time": "2025-03-15T16:19:11.000000",
+      "grubTime": "2025-03-15T17:14:58.173195",
+      "content": "\\o/\\o/\\o/|| @[General0826](/user/1351126) : 将军的恩情还不完！|| @[imzfx_Square](/user/936183) : 想吃广东菜 || @[zhangyaiwei](/user/684245) : 你若三冬来 换我一城雪白 相思风中开",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 5306137,
+      "time": "2025-03-15T17:01:40.000000",
+      "grubTime": "2025-03-15T17:14:58.172768",
+      "content": "我很阴险的。——cy",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 5314432,
+      "time": "2025-03-16T19:54:31.000000",
+      "grubTime": "2025-03-16T20:10:33.513222",
+      "content": "u air again",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 5323587,
+      "time": "2025-03-19T12:44:50.000000",
+      "grubTime": "2025-03-19T14:35:36.753389",
+      "content": "偶遇政治老师开大，一套小连招下来拼尽全力无法战胜",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 5351286,
+      "time": "2025-03-24T20:31:18.000000",
+      "grubTime": "2025-03-25T02:31:35.996222",
+      "content": "啊？|| @[sLMxf](/user/752953) : qaz715800",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 5357550,
+      "time": "2025-03-26T21:23:28.000000",
+      "grubTime": "2025-03-26T22:01:05.576236",
+      "content": "|| @[SolRise](/user/1038207) : 改名了，我是YQY__",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 5357551,
+      "time": "2025-03-26T21:24:05.000000",
+      "grubTime": "2025-03-26T22:01:05.572734",
+      "content": "u->u || @[imzfx_Square](/user/936183) : loot s soldier ant,but 0u",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 5364434,
+      "time": "2025-03-28T18:51:21.000000",
+      "grubTime": "2025-03-28T22:07:46.661337",
+      "content": "生快 || @[__lfxxx_](/user/749040) : 生快 || @[xiezheyuan](/user/413065) : 今天是xzy生日，转发给10个人就可以进入国集，我没试过，不知真假，但今天的确是xzy生日，让我们祝他生日快乐。",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 5366188,
+      "time": "2025-03-29T10:49:00.000000",
+      "grubTime": "2025-03-29T10:59:20.988188",
+      "content": "cy:“史莱姆先锋是什么？打成屎”",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 5373717,
+      "time": "2025-03-30T12:57:04.000000",
+      "grubTime": "2025-03-30T14:02:00.417239",
+      "content": "好奇用什么画的 || @[liyifan202201](/user/661094) : \n这个怎么样？",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 5379669,
+      "time": "2025-03-31T21:48:17.000000",
+      "grubTime": "2025-04-01T01:21:06.272821",
+      "content": "|| @[General0826](/user/1351126) : 不好，我们失败了 || @[liyifan202201](/user/661094) : \n！！！",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 5382383,
+      "time": "2025-04-01T20:29:38.000000",
+      "grubTime": "2025-04-01T21:27:53.803758",
+      "content": "liyifan!颓florr！Happy April Fools' Day! || @[liyifan202201](/user/661094) : ![](https://cdn.luogu.com.cn/upload/image_hosting/dc970qqf.png)\n...",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 5386320,
+      "time": "2025-04-02T21:53:02.000000",
+      "grubTime": "2025-04-02T23:31:56.301651",
+      "content": "班长的深情诗朗诵之《我是奶龙》",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 5386923,
+      "time": "2025-04-03T12:37:53.000000",
+      "grubTime": "2025-04-03T13:08:28.985683",
+      "content": "今天是@[GCSG01](/user/1032267)  的生日，听说转发这条犇犇洛谷讨论区会复活，我试过了，是真的，所以让我们祝他生日快乐！",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 5389958,
+      "time": "2025-04-04T12:48:13.000000",
+      "grubTime": "2025-04-04T13:38:05.968545",
+      "content": "|| @[General0826](/user/1351126) : 我的大脑宕机了，我正在写题，我的宠物鹦鹉飞上来，在我耳边说了一句：“你↓说↑你↓不—想↓在↓这~里→”，",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 5389959,
+      "time": "2025-04-04T12:48:22.000000",
+      "grubTime": "2025-04-04T13:38:05.966183",
+      "content": "啊？|| @[liyifan202201](/user/661094) : \n这是我的了。",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 5393541,
+      "time": "2025-04-05T15:19:28.000000",
+      "grubTime": "2025-04-05T15:21:09.314347",
+      "content": "啊？这个代词……？|| @[liyifan202201](/user/661094) : 花车颠啊颠，工程施工睁开眼，她说到她的生日就是那天。 || @tzhengqing : 快生快生|| @[SolRise](/user/1038207) : 快生快生 || @[kind_aunt](/user/926886) : 生快生快，周日见 || @[GCSG01](/user/1032267) : 今天是@GC",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 5399395,
+      "time": "2025-04-06T15:27:45.000000",
+      "grubTime": "2025-04-06T15:51:06.856486",
+      "content": "文件传输：http://172.16.12.22:53317",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 5399396,
+      "time": "2025-04-06T15:43:26.000000",
+      "grubTime": "2025-04-06T15:51:06.856160",
+      "content": "http://172.16.12.26:53317",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 5407719,
+      "time": "2025-04-08T19:53:37.000000",
+      "grubTime": "2025-04-08T20:21:06.214162",
+      "content": "乐了，前物理老师[抽风](https://note.ms/Genlele)，懒到不想给我们班上课就请了个代课老师，结果是个AI绘画大佬",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 5411725,
+      "time": "2025-04-09T21:46:56.000000",
+      "grubTime": "2025-04-09T22:44:49.034190",
+      "content": "|| @[kind_aunt](/user/926886) : florr\n|| @[tzhengqing](/user/1058570) : florr",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 5418764,
+      "time": "2025-04-12T10:29:20.000000",
+      "grubTime": "2025-04-12T11:47:33.342874",
+      "content": "ok啊，数学作业写完一题了\n![](https://cdn.luogu.com.cn/upload/image_hosting/88ii95s0.png)",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 5418765,
+      "time": "2025-04-12T10:30:00.000000",
+      "grubTime": "2025-04-12T11:47:33.342518",
+      "content": "<https://www.desmos.com/calculator/rlnclpjszn>",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 5432262,
+      "time": "2025-04-15T19:36:57.000000",
+      "grubTime": "2025-04-15T21:22:09.208512",
+      "content": "同问同问 || @[imzfx_Square](/user/936183) : 我还想问你呢 || @[SolRise](/user/1038207) : 偶然上线，为什么我公会没了？",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 5432263,
+      "time": "2025-04-15T19:37:32.000000",
+      "grubTime": "2025-04-15T21:22:09.207735",
+      "content": "打U掉U了！强 || @[imzfx_Square](/user/936183) : upincer drop",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 5435669,
+      "time": "2025-04-16T21:23:08.000000",
+      "grubTime": "2025-04-17T02:05:47.512792",
+      "content": "唯一stick：bailin2![](https://cdn.luogu.com.cn/upload/image_hosting/yzfpqsex.png)",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 5439710,
+      "time": "2025-04-18T18:55:16.000000",
+      "grubTime": "2025-04-18T20:26:45.455381",
+      "content": "|| @[endswitch](/user/773915) : 省流：虚树、期望被削了。 || @[endswitch](/user/773915) : https://www.noi.cn/upload/resources/file/2025/04/18/NOI2025.pdf",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 5439711,
+      "time": "2025-04-18T18:55:49.000000",
+      "grubTime": "2025-04-18T20:26:45.454017",
+      "content": "啊？7：00？ || @[tzhengqing](/user/1058570) : florr",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 5442227,
+      "time": "2025-04-19T08:59:25.000000",
+      "grubTime": "2025-04-19T11:44:26.910625",
+      "content": "florr || @[imzfx_Square](/user/936183) : florr",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 5445099,
+      "time": "2025-04-19T19:22:21.000000",
+      "grubTime": "2025-04-19T20:31:19.351252",
+      "content": "图片有点抽象吧 || @[liyifan202201](/user/661094) : \nGenGenToolBox！ 主页有什么想加入的私信我（尽量是静态的）",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 5448468,
+      "time": "2025-04-20T13:58:11.000000",
+      "grubTime": "2025-04-20T16:05:37.544053",
+      "content": "[啊？](https://www.luogu.me/paste/mbznlagy) || @[sLMxf](/user/752953) : https://www.luogu.com.cn/paste/mbznlagy",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 5454224,
+      "time": "2025-04-22T13:08:42.000000",
+      "grubTime": "2025-04-22T14:25:34.901356",
+      "content": "昨天下午达成成就：When the rainstorm came,my classmates was playing basketball with umbrella!",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 5456522,
+      "time": "2025-04-22T22:17:14.000000",
+      "grubTime": "2025-04-23T01:01:52.879747",
+      "content": "熊传发吹糖人 有Bag",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 5462587,
+      "time": "2025-04-24T21:19:57.000000",
+      "grubTime": "2025-04-24T21:23:54.834071",
+      "content": "great || @[liyifan202201](/user/661094) : ![](https://cdn.luogu.com.cn/upload/image_hosting/5rzib2m0.png)\n\nNew & Old",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 5465757,
+      "time": "2025-04-25T20:09:15.000000",
+      "grubTime": "2025-04-25T20:56:39.230230",
+      "content": "|| @[General0826](/user/1351126) : 今天是大号一年到期啦！",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 5465758,
+      "time": "2025-04-25T20:09:36.000000",
+      "grubTime": "2025-04-25T20:56:39.228921",
+      "content": "|| @[kind_Ygg](/user/926886) : [kind_Ygg](/user/926886) 改名祭",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 5466926,
+      "time": "2025-04-25T21:26:43.000000",
+      "grubTime": "2025-04-26T02:26:13.624423",
+      "content": "Gen || @[General0826](/user/1351126) : 大号征名",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 5473401,
+      "time": "2025-04-27T19:57:08.000000",
+      "grubTime": "2025-04-27T20:21:28.458842",
+      "content": "finally u bone",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 5477835,
+      "time": "2025-04-28T21:08:10.000000",
+      "grubTime": "2025-04-28T23:20:21.853353",
+      "content": "|| @[_saltFish_](/user/661044) : ![](https://cdn.luogu.com.cn/upload/image_hosting/nzamq76n.png)——摘自今日头条\n我寻思水分子不都一个样吗，难道地球上的是米老鼠，月球上的就得是唐老鸭/jy",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 5485537,
+      "time": "2025-05-01T08:48:41.000000",
+      "grubTime": "2025-05-01T09:59:31.654875",
+      "content": "啊|| @[liyifan202201](/user/661094) : 那个黑客好强，按了2下，走了2步就把我和cbm的电脑窗口全关了，又在谭老师眼皮下瞬移不见 || @[imzfx_Square](/user/936183) : 并非拼尽全力 || @[kind_Ygg](/user/926886) : 谭老师凭尽全力终于战胜 || @[imzfx_Square](/user/936183) : 我是",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 5507443,
+      "time": "2025-05-05T14:01:37.000000",
+      "grubTime": "2025-05-05T14:46:55.384621",
+      "content": "|| @[imzfx_Square](/user/936183) : ![](https://cdn.luogu.com.cn/upload/usericon/902158.png)",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 5508399,
+      "time": "2025-05-05T15:43:45.000000",
+      "grubTime": "2025-05-05T16:54:13.654209",
+      "content": "|| @[Grow2011](/user/691641) : @[sLMxf](/user/752953) 我暗恋你",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 5508400,
+      "time": "2025-05-05T15:44:52.000000",
+      "grubTime": "2025-05-05T16:54:13.653850",
+      "content": "链接错了 || @[liyifan202201](/user/661094) : https://www.luogu.com.cn/paste/z5udy9lq\n整活！",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 5508401,
+      "time": "2025-05-05T15:45:10.000000",
+      "grubTime": "2025-05-05T16:54:13.653505",
+      "content": "《机房没有派对》",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 5508402,
+      "time": "2025-05-05T15:47:05.000000",
+      "grubTime": "2025-05-05T16:54:13.653059",
+      "content": "|| @[imzfx_Square](/user/936183) :  Florr!",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 5514655,
+      "time": "2025-05-06T19:02:04.000000",
+      "grubTime": "2025-05-07T00:35:49.529027",
+      "content": "imsuper_Square || @[imzfx_Square](/user/936183) : 快改名了征个名",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 5517697,
+      "time": "2025-05-07T20:40:30.000000",
+      "grubTime": "2025-05-08T02:09:19.215269",
+      "content": "rp献祭大法！ || @[kind_Ygg](/user/926886) : 25M=2Uyc!!!!!!!!!!",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 5517698,
+      "time": "2025-05-07T20:40:46.000000",
+      "grubTime": "2025-05-08T02:09:19.214852",
+      "content": "|| @[SolRise](/user/1038207) : 老师留作业，让我们画鲲，我们全画的deepseek",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 5560298,
+      "time": "2025-05-18T13:59:00.000000",
+      "grubTime": "2025-05-18T14:12:13.885110",
+      "content": "|| @[kind_Ygg](/user/926886) : florr",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 5582734,
+      "time": "2025-05-24T17:00:12.000000",
+      "grubTime": "2025-05-24T17:05:10.333018",
+      "content": "。ɹɹolɟ玩在人有没 || @[imzfx_Square](/user/936183) : 。rrolf 玩在人有没",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 5602050,
+      "time": "2025-05-29T21:25:16.000000",
+      "grubTime": "2025-05-29T21:36:41.786621",
+      "content": "我来绑！ || @[imzfx_Square](/user/936183) : 绑个 discord 不就好了 || @[SolRise](/user/1038207) : 我现在都凑不出一套跑图装了 || @[SolRise](/user/1038207) : 不管是谁，最近不要动我的号了，尤其是不要乱合卡",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 5616184,
+      "time": "2025-06-02T07:57:32.000000",
+      "grubTime": "2025-06-02T08:19:23.748035",
+      "content": "『沉痛悼念小枫驾鹤西游』 || @[sLMxf](/user/752953) : 觉得比原头像丑的回复一下",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 5624143,
+      "time": "2025-06-03T20:47:40.000000",
+      "grubTime": "2025-06-03T21:50:14.382277",
+      "content": "海王 || @[kind_Ygg](/user/926886) : 为什么会有点出度为2？？？|| @[General0826](/user/1351126) : 红色是现在喜欢，黑色是过去喜欢 || @[General0826](/user/1351126) : 乱太乱了！",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 5647785,
+      "time": "2025-06-11T19:53:32.000000",
+      "grubTime": "2025-06-11T20:06:03.250360",
+      "content": "T2概率dp吗？ || @[xzq4121](/user/1054119) : OK,AC T1,T2。如果不挂分期望251",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 5648005,
+      "time": "2025-06-11T20:19:21.000000",
+      "grubTime": "2025-06-11T20:42:19.890072",
+      "content": "是不是优先选最短路径|| @[xzq4121](/user/1054119) : 要用bfs预处理一下最短路|| @[liyifan202201](/user/661094) : 我在想 Dijkstra  || @[xzq4121](/user/1054119) : 是的|| @[liyifan202201](/user/661094) : 同问 || @[GCSG01](/user/1032267) : T2概率dp吗？ || @xzq4",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 5650000,
+      "time": "2025-06-12T13:35:30.000000",
+      "grubTime": "2025-06-12T18:18:38.460132",
+      "content": "How T3? || @[liyifan202201](/user/661094) : 去 freopen 200 分 80 + 4 + 100 +16",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 5658036,
+      "time": "2025-06-14T18:20:44.000000",
+      "grubTime": "2025-06-14T18:23:59.936560",
+      "content": "? || @[liyifan202201](/user/661094) : @[kind_ygg](/user/926886) 打 ACM ？",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 5658541,
+      "time": "2025-06-14T19:12:15.000000",
+      "grubTime": "2025-06-14T20:00:42.921031",
+      "content": "谁能解释一下题意啊！|| @[SolRise](/user/1038207) : 。。。 || @[tzhengqing](/user/1058570) : 3还可以选2呢|| @[tzhengqing](/user/1058570) : ？你是不是忘了什么|| @[SolRise](/user/1038207) : 2与3情况是一样的！ || @[SolRise](/user/1038207) : woc我真想出来了|| @[tzhengqing](/user/1058570)",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 5658542,
+      "time": "2025-06-14T19:13:46.000000",
+      "grubTime": "2025-06-14T20:00:42.920886",
+      "content": "so……求形式化题面\n|| @[tzhengqing](/user/1058570) : 题意里面90%都是诈骗|| @[GCSG01](/user/1032267) : 谁能解释一下题意啊！|| @[SolRise](/user/1038207) : 。。。 || @[tzhengqing](/user/1058570) : 3还可以选2呢|| @[tzhengqing](/user/1058570) : ？你是不是忘了什么|| @SolRis",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 5658543,
+      "time": "2025-06-14T19:13:52.000000",
+      "grubTime": "2025-06-14T20:00:42.920704",
+      "content": "|| @[liyifan202201](/user/661094) : ”ACM“",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 5658544,
+      "time": "2025-06-14T19:15:40.000000",
+      "grubTime": "2025-06-14T20:00:42.920458",
+      "content": "so [为什么不用帖子呢](https://www.luogu.com.cn/discuss/1093004)",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 5658545,
+      "time": "2025-06-14T19:17:07.000000",
+      "grubTime": "2025-06-14T20:00:42.920204",
+      "content": "是赢吧？ || @[tzhengqing](/user/1058570) : 消除最后一个法咒的人输了，双方采取最优策略，问你赢还是输 || @[GCSG01](/user/1032267) : so……求形式化题面\n|| @[tzhengqing](/user/1058570) : 题意里面90%都是诈骗|| @[GCSG01](/user/1032267) : 谁能解释一下题意啊！|| @[SolRise](/user/1038207) : ",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 5658546,
+      "time": "2025-06-14T19:17:22.000000",
+      "grubTime": "2025-06-14T20:00:42.919826",
+      "content": "no || @[tzhengqing](/user/1058570) : 话说要开freopen吗",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 5659563,
+      "time": "2025-06-14T20:07:22.000000",
+      "grubTime": "2025-06-14T21:44:40.079775",
+      "content": "今天是阅读理解专项赛吗？",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 5659564,
+      "time": "2025-06-14T21:37:15.000000",
+      "grubTime": "2025-06-14T21:44:40.079474",
+      "content": "liyifan复活之日！！！ || @[General0826](/user/1351126) : 你已经在我们机房第3了 || @[liyifan202201](/user/661094) : 算了，死吧 || @[General0826](/user/1351126) : 3 3 是 0.25 || @[tzhengqing](/user/1058570) : 就是只变了0和1 || @[tzhengqing](/user/1058570)",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 5661916,
+      "time": "2025-06-15T13:32:16.000000",
+      "grubTime": "2025-06-15T14:11:54.741949",
+      "content": "有考马蹄杯的吗？",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 5673924,
+      "time": "2025-06-19T19:12:37.000000",
+      "grubTime": "2025-06-19T20:25:40.842316",
+      "content": "|| @[General0826](/user/1351126) : 祝99 || @[tzhengqing](/user/1058570) : 请祝我跟TA99。\n嘻嘻嘻。",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 5686304,
+      "time": "2025-06-23T12:38:09.000000",
+      "grubTime": "2025-06-23T15:13:03.523895",
+      "content": "又死了？ || @[liyifan202201](/user/661094) : When I see you again\n暂时（可能永久）退网了！",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 5705103,
+      "time": "2025-06-29T11:37:15.000000",
+      "grubTime": "2025-06-29T14:26:06.490524",
+      "content": "关于我头晕医生说我营养不良这件事……",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 5754516,
+      "time": "2025-06-30T21:15:40.000000",
+      "grubTime": "2025-07-10T19:07:47.862840",
+      "content": "85级出S![](https://cdn.luogu.com.cn/upload/image_hosting/7ew6gxzf.png)",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 5754517,
+      "time": "2025-07-01T20:37:56.000000",
+      "grubTime": "2025-07-10T19:07:47.862263",
+      "content": "强|| @[SolRise](/user/1038207) : 你猜我开了3倍在干什么",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 5754518,
+      "time": "2025-07-03T19:39:09.000000",
+      "grubTime": "2025-07-10T19:07:47.862000",
+      "content": "!!!!!!!!!!!!!|| @[liyifan202201](/user/661094) : 七月七日八机房不见不散",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 5754519,
+      "time": "2025-07-07T11:54:17.000000",
+      "grubTime": "2025-07-10T19:07:47.861668",
+      "content": "复活节快乐\n || @[yangyafan](/user/697932) : %% || @[zhouyoyo](/user/724190) : 热烈祝贺lyf复活",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 5754520,
+      "time": "2025-07-09T16:55:04.000000",
+      "grubTime": "2025-07-10T19:07:47.861409",
+      "content": "|| @[tzhengqing](/user/1058570) : || @[imzfx_Square](/user/936183) : 跪下了 || @[endswitch](/user/773915) : 怎么跪下了 || @[OccDreamer](/user/753090) : 直接给我跪下！！！！1！！11！",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 5754521,
+      "time": "2025-07-10T08:15:50.000000",
+      "grubTime": "2025-07-10T19:07:47.861121",
+      "content": "Who you are? || @[tzhengqing](/user/1058570) : 对啊你谁啊 || @[SolRise](/user/1038207) : 你谁啊 || @_zSqr_MahiroOyama : 改名了，纠结了两个多月。\n我是 imzfx_Square",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 5754522,
+      "time": "2025-07-10T10:53:44.000000",
+      "grubTime": "2025-07-10T19:07:47.860773",
+      "content": "|| @[_zSqr_Mahiro_Oyama_](/user/936183) : @_zSqr_MahiroOyama 你谁",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 5754523,
+      "time": "2025-07-10T10:56:59.000000",
+      "grubTime": "2025-07-10T19:07:47.860494",
+      "content": "是你吗 || @[endswitch](/user/773915) : 将真实人名替换成了【数据删除】 || @[endswitch](/user/773915) : https://www.luogu.com.cn/article/wjjuwuot",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 5754524,
+      "time": "2025-07-10T12:51:43.000000",
+      "grubTime": "2025-07-10T19:07:47.860164",
+      "content": "YQY 的florr 账号：`window.localStorage.setItem(\"cp6_player_id\",\"8019f344-b2d9-455d-85e0-38cd51a3a060\");`·，非常好玩，欢迎使用",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 5754525,
+      "time": "2025-07-10T14:54:45.000000",
+      "grubTime": "2025-07-10T19:07:47.859839",
+      "content": "有/无 奖竞猜：猜用户名(上下两个)：\n![](https://cdn.luogu.com.cn/upload/image_hosting/gngzjdca.png)",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 5761608,
+      "time": "2025-07-10T20:17:50.000000",
+      "grubTime": "2025-07-10T23:07:34.296136",
+      "content": "%%% || @[tzhengqing](/user/1058570) : %%% || @_zSqr_MahiroOyama : %% || @[NTT__int128](/user/770891) : 拿下 P5314！",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 5767550,
+      "time": "2025-07-11T14:16:44.000000",
+      "grubTime": "2025-07-11T14:28:26.232439",
+      "content": "[投票下载](http://172.16.12.47:53317)",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 5768410,
+      "time": "2025-07-11T14:31:35.000000",
+      "grubTime": "2025-07-11T15:46:08.222493",
+      "content": "[聊天室](https://hack.chat/?8jifang)",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 5769872,
+      "time": "2025-07-11T16:31:05.000000",
+      "grubTime": "2025-07-11T17:43:54.441361",
+      "content": "@[_zSqr_Mahiro_Oyama_](/user/936183)  打篮球的大姐姐，下课打球吗",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 5777927,
+      "time": "2025-07-12T16:35:46.000000",
+      "grubTime": "2025-07-12T18:14:11.949105",
+      "content": "|| @[endswitch](/user/773915) : 亲眼见证的，yb 还是没石粒。 || @[tzhengqing](/user/1058570) : %%% || @[OccDreamer](/user/753090) : I AK IOI",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 5789172,
+      "time": "2025-07-13T20:10:08.000000",
+      "grubTime": "2025-07-14T00:44:54.617447",
+      "content": "|| @[_saltFish_](/user/661044) : man！！！",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 5790867,
+      "time": "2025-07-14T08:14:09.000000",
+      "grubTime": "2025-07-14T10:54:21.131965",
+      "content": "|| @[_zSqr_Mahiro_Oyama_](/user/936183) : || @[liyifan202201](/user/661094) : 地铁颠呀颠，lyf 睁开眼\n她说刚刚做了梦\n梦见 lyf 的生日就是今天\n在梦中，lyf派OIer和逸夫猫们将她发现\n「神明啊，可算找到你了，大家都期待与你见面」\nlyf 诞祭开幕了，人们",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 5790868,
+      "time": "2025-07-14T08:14:15.000000",
+      "grubTime": "2025-07-14T10:54:21.131739",
+      "content": "|| @[endswitch](/user/773915) : 大家 NOI 2025 RP++",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 5790869,
+      "time": "2025-07-14T08:29:29.000000",
+      "grubTime": "2025-07-14T10:54:21.131445",
+      "content": "We AK NOI 2024 Day 1 || @[tzhengqing](/user/1058570) : I AK NOI 2024 Day 1 || @[kind_Ygg](/user/926886) : 大家 AK NOI day1 ，步当年 @[puck](/user/12541) 的后尘|| @_zSqr_MahiroOyama : 大家 NOI 2025 RP",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 5790870,
+      "time": "2025-07-14T09:01:59.000000",
+      "grubTime": "2025-07-14T10:54:21.131099",
+      "content": "%|| @[OccDreamer](/user/753090) : I AK IOI!!!",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 5793676,
+      "time": "2025-07-14T13:20:45.000000",
+      "grubTime": "2025-07-14T15:31:44.659333",
+      "content": "权，方能，访，罚金，企图|| @[tzhengqing](/user/1058570) : 商城，应用层，拥有你，淋浴器，维护了 || @_zSqr_MahiroOyama : 收藏，也因此，原因呢，另一侧，误会了 || @[lfxxx_](/user/795344) : 删除，有一次，一一年，路由器，我回来 || @[FeiYu32](/user/1436750) : 酸菜，",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 5804312,
+      "time": "2025-07-15T15:54:41.000000",
+      "grubTime": "2025-07-15T17:28:40.285625",
+      "content": "[![](https://cdn.luogu.com.cn/upload/image_hosting/xrv674ng.png)](https://www.toolhelper.cn/QRCode/Recognize)",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 5804313,
+      "time": "2025-07-15T15:56:52.000000",
+      "grubTime": "2025-07-15T17:28:40.285311",
+      "content": "请使用手机扫码：\n![](https://cdn.luogu.com.cn/upload/image_hosting/n9qccboo.png)",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 5804314,
+      "time": "2025-07-15T17:00:42.000000",
+      "grubTime": "2025-07-15T17:28:40.104955",
+      "content": "机房神人声情朗诵必背古诗词",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 5804315,
+      "time": "2025-07-15T17:01:33.000000",
+      "grubTime": "2025-07-15T17:28:40.104388",
+      "content": "~胡桃的狗~ 怎么祝我们班主任生日快乐 /bushi || @[xzq4121](/user/1054119) : 堂主生日快乐！！！",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 5806709,
+      "time": "2025-07-15T19:25:20.000000",
+      "grubTime": "2025-07-15T21:02:36.675705",
+      "content": "|| @[xzq4121](/user/1054119) : 现在是7/15 5:20，胡桃，我爱你！",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 5808873,
+      "time": "2025-07-16T08:21:31.000000",
+      "grubTime": "2025-07-16T09:02:05.106509",
+      "content": "蒸蒸日上\n![](https://cdn.luogu.com.cn/upload/image_hosting/6xdim116.png)",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 5819942,
+      "time": "2025-07-17T09:10:54.000000",
+      "grubTime": "2025-07-17T10:11:51.017118",
+      "content": "?|| @[_zSqr_Mahiro_Oyama_](/user/936183) : ？ || @[zhangyaiwei](/user/684245) : ？ || @[liyifan202201](/user/661094) : ? || @[tzhengqing](/user/1058570) : 祝大家守银摄金，扬威到冠！",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 5822083,
+      "time": "2025-07-17T13:01:54.000000",
+      "grubTime": "2025-07-17T13:37:37.398447",
+      "content": "|| @[yangyafan](/user/697932) : || @[kind_Ygg](/user/926886) : 我喜欢cbm",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 5822084,
+      "time": "2025-07-17T13:01:57.000000",
+      "grubTime": "2025-07-17T13:37:37.398182",
+      "content": "|| @[kind_Ygg](/user/926886) : 草死你的妈，@[GCSG01](/user/1032267) || @[tanzhengqing](/user/1031875) : || @[yangyafan](/user/697932) : || @[kind_Ygg](/user/926886) : 我喜欢yyf",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 5822085,
+      "time": "2025-07-17T13:36:57.000000",
+      "grubTime": "2025-07-17T13:37:37.397872",
+      "content": "[国内下载](https://git.ppp.ac.cn/https://github.com/nxtblock/ggtoolbox/releases/download/v1.2/Setup.exe) || @[liyifan202201](/user/661094) : https://github.com/",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 5823256,
+      "time": "2025-07-17T14:47:08.000000",
+      "grubTime": "2025-07-17T14:51:41.085753",
+      "content": "《厕所严禁追赶、大闹以及睡觉》",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 5823257,
+      "time": "2025-07-17T14:47:20.000000",
+      "grubTime": "2025-07-17T14:51:41.085382",
+      "content": "@[kind_ygg](/user/926886)  || @[GCSG01](/user/1032267) : 《厕所严禁追赶、大闹以及睡觉》",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 5851364,
+      "time": "2025-07-20T11:06:06.000000",
+      "grubTime": "2025-07-20T11:57:21.919933",
+      "content": "7=1 morb",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 5923726,
+      "time": "2025-07-28T08:04:41.000000",
+      "grubTime": "2025-07-28T08:45:09.270514",
+      "content": "CF B题没写出来是不是可以退役了",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 5962710,
+      "time": "2025-07-31T14:39:30.000000",
+      "grubTime": "2025-07-31T18:07:08.158328",
+      "content": "祝贺祝贺 || @[liyifan202201](/user/661094) : I AK IOI day1，快祝贺我明天 AK IOI day2",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 5985419,
+      "time": "2025-08-02T21:20:27.000000",
+      "grubTime": "2025-08-03T00:21:06.597412",
+      "content": "所以抢到了吗 || @[tzhengqing](/user/1058570) : 开虚化抢S飞蛾，然后我爸观察窗户外面的壁虎，说“看看看，干掉了一只飞蛾”，吓死我了。\n没有人类了。",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 5985420,
+      "time": "2025-08-02T21:20:45.000000",
+      "grubTime": "2025-08-03T00:21:06.596964",
+      "content": "hpzc || @[yangyafan](/user/697932) : qpzc|| @[kind_Ygg](/user/926886) : https://www.luogu.com.cn/contest/260375\n欢迎大家参加ZQOI",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 6044248,
+      "time": "2025-08-08T20:53:31.000000",
+      "grubTime": "2025-08-08T21:06:06.827632",
+      "content": "完了，rp要没了",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 6044469,
+      "time": "2025-08-08T21:18:46.000000",
+      "grubTime": "2025-08-08T21:27:07.831401",
+      "content": "2天4 u tri，s loot 1,u loot 1,5=1,10=1 || @[SolRise](/user/1038207) : ? || @[GCSG01](/user/1032267) : 完了，rp要没了",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 6049631,
+      "time": "2025-08-09T12:32:32.000000",
+      "grubTime": "2025-08-09T15:12:02.660064",
+      "content": "|| @[tzhengqing](/user/1058570) : S spi没掉三眼。S spi没掉三眼。S spi没掉三眼。S spi没掉三眼。S spi没掉三眼。S spi没掉三眼。S spi没掉三眼。S spi没掉三眼。S spi没掉三眼。S spi没掉三眼。S spi没掉三眼。S spi没掉三眼。S s",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 6073858,
+      "time": "2025-08-11T21:07:38.000000",
+      "grubTime": "2025-08-11T21:22:35.235914",
+      "content": "[Chat For ICPC](https://github.com/nxtblock/CFI/releases/tag/v1.0)\n\n[国内加速](https://kkgithub.com/nxtblock/CFI/releases/tag/v1.0)",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 6078998,
+      "time": "2025-08-12T12:39:10.000000",
+      "grubTime": "2025-08-12T13:01:37.961121",
+      "content": "T1 n=100000 2^n 可过",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 6097013,
+      "time": "2025-08-13T16:41:21.000000",
+      "grubTime": "2025-08-13T20:20:34.224731",
+      "content": "jj:9bd7995e78fbb032c4c75372c5cfe22b6b129672",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 6103889,
+      "time": "2025-08-14T14:20:22.000000",
+      "grubTime": "2025-08-14T14:36:11.190093",
+      "content": "<https://wj.qq.com/s2/23487154/cd80/>",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 6103890,
+      "time": "2025-08-14T14:24:32.000000",
+      "grubTime": "2025-08-14T14:36:11.189719",
+      "content": "我机房同学平白无故的与一个不认识的人被棕，大家帮帮忙：https://wj.qq.com/s2/23487154/cd80/",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 6118344,
+      "time": "2025-08-15T16:37:18.000000",
+      "grubTime": "2025-08-15T18:32:42.487263",
+      "content": "|| @[cjh20090318](/user/577880) : 挂个人的网站，兄弟伙们攻击！",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 6165920,
+      "time": "2025-08-20T08:11:31.000000",
+      "grubTime": "2025-08-20T09:33:59.585100",
+      "content": "<https://algorithm-duels.online/home/room/gqC1kiLUjTjfelKIlZ1R>",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 6183686,
+      "time": "2025-08-21T14:26:07.000000",
+      "grubTime": "2025-08-21T16:52:59.090286",
+      "content": "<https://algorithm-duels.online/home/room/QNZTU9FetO7t5hjTid4V>",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 6204224,
+      "time": "2025-08-23T08:12:01.000000",
+      "grubTime": "2025-08-23T08:56:47.566881",
+      "content": "|| @[Gcend](/user/697932) : \n发表了新帖子 IAKIOI ，快去看看吧！\nI AK IOI",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 6204225,
+      "time": "2025-08-23T08:12:22.000000",
+      "grubTime": "2025-08-23T08:56:47.566597",
+      "content": "生病了也要大学习\n || @[tzhengqing](/user/1058570) : 统一回复：生病了。",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 6231443,
+      "time": "2025-08-25T17:00:44.000000",
+      "grubTime": "2025-08-25T20:48:44.426439",
+      "content": "I use my feet made 100 datas || @[_zSqr_Mahiro_Oyama_](/user/936183) : I made 100 datas(by feet)! || @[tzhengqing](/user/1058570) : || @[lfxxx_](/user/795344) : ![](https://cdn.luogu.com.cn",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 6239228,
+      "time": "2025-08-26T15:24:45.000000",
+      "grubTime": "2025-08-26T17:16:39.272414",
+      "content": "|| @[KukCair](/user/767449) : 生快生 || @[Stars_visitor_tyw](/user/941575) : 快生 || @[sLMxf](/user/752953) : 生快 || @[General0826](/user/1351126) : 又老了一岁",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 6243096,
+      "time": "2025-08-26T20:56:36.000000",
+      "grubTime": "2025-08-26T21:53:06.711928",
+      "content": "哪个是你啊？|| @[z_z_b_](/user/956129) : 真是场酣畅淋漓的战斗啊\nhttps://algorithm-duels.online/home/duel/19840",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 6250065,
+      "time": "2025-08-27T14:51:39.000000",
+      "grubTime": "2025-08-27T16:19:52.036320",
+      "content": "yorg.io  block.io || @[kind_Ygg](/user/926886) : 在家里躺倒空虚，有没有人知道好玩的.io 游戏",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 6299733,
+      "time": "2025-09-01T19:32:01.000000",
+      "grubTime": "2025-09-01T19:54:33.935348",
+      "content": "|| @[kind_Ygg](/user/926886) : 2f8631941989ebee75d82790972bcca5e63f7646",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 6306126,
+      "time": "2025-09-03T12:38:47.000000",
+      "grubTime": "2025-09-03T13:07:00.626312",
+      "content": "|| @[xiezheyuan](/user/413065) : 小窗看阅兵.png",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 6330316,
+      "time": "2025-09-06T20:25:33.000000",
+      "grubTime": "2025-09-06T22:44:06.318498",
+      "content": "??? || @[kind_Ygg](/user/926886) : 有人有yyf或xzq的电话吗",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 6340418,
+      "time": "2025-09-07T21:44:28.000000",
+      "grubTime": "2025-09-07T22:16:24.953911",
+      "content": "|| @[ljkgs6789](/user/957917) : I AK IOI",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 6341766,
+      "time": "2025-09-08T12:32:23.000000",
+      "grubTime": "2025-09-08T13:06:35.865190",
+      "content": "|| @[liyifan202201](/user/661094) : 我红了？",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 6345171,
+      "time": "2025-09-08T20:10:34.000000",
+      "grubTime": "2025-09-09T03:42:42.629741",
+      "content": "见证历史：\nA Super Digger has spawned somewhere!",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 6349498,
+      "time": "2025-09-09T19:45:42.000000",
+      "grubTime": "2025-09-09T23:35:39.389419",
+      "content": "真的？？？不会吧 || @[endswitch](/user/773915) : ？忘记缴费了，爆零了哈哈",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 6378001,
+      "time": "2025-09-14T10:53:32.000000",
+      "grubTime": "2025-09-14T11:28:10.516014",
+      "content": "+1 HN-S009**\t || @[Gcend](/user/697932) : +1,HN-S010xx || @[Stars_visitor_tyw](/user/941575) : 同问，我HN-S018xx || @[JoeZYQ](/user/853792) : HN-S008**(<=850) 有准考证号相近的吗",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 6386763,
+      "time": "2025-09-15T12:59:56.000000",
+      "grubTime": "2025-09-15T16:28:08.506754",
+      "content": "做初赛做到被4、5、6整除吓我一跳",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 6386764,
+      "time": "2025-09-15T13:35:08.000000",
+      "grubTime": "2025-09-15T16:28:08.500609",
+      "content": "[@tzhengqing](https://www.luogu.com.cn/discuss/1152136?page=30)",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 6391485,
+      "time": "2025-09-16T12:51:31.000000",
+      "grubTime": "2025-09-16T14:20:59.821270",
+      "content": "化学老师抓伪人.jpg",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 6397284,
+      "time": "2025-09-17T12:34:17.000000",
+      "grubTime": "2025-09-17T15:27:32.347204",
+      "content": "|| @[tzhengqing](/user/1058570) : “生日快乐”\n“谢谢你，这是是我收到的第一个祝福”\n“可是我看见之前有人说过了呀”\n“在我心里，你永远是第一”",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 6397285,
+      "time": "2025-09-17T12:34:45.000000",
+      "grubTime": "2025-09-17T15:27:32.346662",
+      "content": "难道不是显然？|| @[Gcend](/user/697932) : 但也不是所有人都知道哪几句话是tzq说的|| @[tzhengqing](/user/1058570) : 秒出正解|| @[lfxxx_](/user/795344) : 这是tzq和tzq'snpy的对话吗 || @[tzhengqing](/user/1058570) : “生日快乐”\n“谢谢你，这是是我收到的第一个祝福”\n“可是我看",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 6403635,
+      "time": "2025-09-18T12:32:21.000000",
+      "grubTime": "2025-09-18T17:12:49.160794",
+      "content": "|| @[liyifan202201](/user/661094) : 铭记历史，勿忘国耻。\n2025.9.18 九一八事变 94 周年。",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 6403636,
+      "time": "2025-09-18T12:40:23.000000",
+      "grubTime": "2025-09-18T17:12:49.160456",
+      "content": "发准考证了，听到 @[J_kobe](/user/844496) 的名字！\n\nin 中雅培萃南校区15考",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 6403637,
+      "time": "2025-09-18T12:41:42.000000",
+      "grubTime": "2025-09-18T17:12:49.160031",
+      "content": "@[J_kobe](/user/844496)  :\n```\n J026** 38考 \nS016xx27考\n```",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 6433344,
+      "time": "2025-09-21T10:50:35.000000",
+      "grubTime": "2025-09-21T12:58:56.362387",
+      "content": "省流：其实是同一个人 || @[Gcend](/user/697932) : 巨佬竟然这么晚还上洛谷|| @[tzhengqing](/user/1058570) : 凌晨洛谷打卡6 || @[kind_Ygg](/user/926886) : 凌晨洛谷打卡5|| @[Gcend](/user/697932) : 凌晨洛谷打卡4",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 6449285,
+      "time": "2025-09-23T21:09:03.000000",
+      "grubTime": "2025-09-24T00:54:01.835298",
+      "content": "注意到李*涵 || @[SolRise](/user/1038207) : 安徽上大分|| @[kind_Ygg](/user/926886) : http://noi.cn/xw/2020-12-10/718309.shtml",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 6455206,
+      "time": "2025-09-25T12:33:56.000000",
+      "grubTime": "2025-09-25T12:48:46.443471",
+      "content": "md,班长在广播站放抽象音乐连到机房了",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 6465672,
+      "time": "2025-09-26T13:23:42.000000",
+      "grubTime": "2025-09-26T21:55:12.663110",
+      "content": "同 86.5 || @[liyifan202201](/user/661094) : S 86.5 nice",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 6472513,
+      "time": "2025-09-27T18:24:42.000000",
+      "grubTime": "2025-09-27T20:20:19.838726",
+      "content": "%%% || @[sLMxf](/user/752953) : 89.5 || @[GCSG01](/user/1032267) : 同 86.5 || @[liyifan202201](/user/661094) : S 86.5 nice",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 6475657,
+      "time": "2025-09-28T12:11:17.000000",
+      "grubTime": "2025-09-28T14:03:42.641166",
+      "content": "|| @[sLMxf](/user/752953) : @[Joezyq](/user/853792) 快生",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 6475658,
+      "time": "2025-09-28T12:11:35.000000",
+      "grubTime": "2025-09-28T14:03:42.640711",
+      "content": "Why? || @[liyifan202201](/user/661094) : GenGen CF RMJ 死了。\n感谢他在 2025七月~2025/九月 的所有贡献。",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 6475659,
+      "time": "2025-09-28T12:44:35.000000",
+      "grubTime": "2025-09-28T14:03:42.636110",
+      "content": "@[tzhengqing](/user/1058570) <https://www.luogu.com.cn/discuss/1160932>",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 6480136,
+      "time": "2025-09-29T09:22:08.000000",
+      "grubTime": "2025-09-29T09:48:57.632367",
+      "content": "|| @[tzhengqing](/user/1058570) : 偶遇神秘对手，“脏不脏啊你，咸猪手”\n我秒回：“你有病吧，我不喜欢女的”\n这将是绝杀。",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 6480137,
+      "time": "2025-09-29T09:26:54.000000",
+      "grubTime": "2025-09-29T09:48:57.630303",
+      "content": "求如何在cf,at,vj都打不开的机房写题",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 6486513,
+      "time": "2025-09-30T17:13:37.000000",
+      "grubTime": "2025-09-30T17:22:09.767131",
+      "content": "省流：no loot\n![](https://cdn.luogu.com.cn/upload/image_hosting/js0kvdmt.png)",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 6491266,
+      "time": "2025-10-01T08:23:16.000000",
+      "grubTime": "2025-10-01T10:53:53.778625",
+      "content": "![](https://cdn.luogu.com.cn/upload/image_hosting/aaxzc18m.png)",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 6494502,
+      "time": "2025-10-01T13:31:51.000000",
+      "grubTime": "2025-10-01T18:06:59.810302",
+      "content": "|| @[kind_Ygg](/user/926886) : 生快 @[General0826](/user/1351126)",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 6573996,
+      "time": "2025-10-07T17:40:46.000000",
+      "grubTime": "2025-10-07T18:11:07.299252",
+      "content": "What || @[kind_Ygg](/user/926886) : 236=6!!!!!",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 6590788,
+      "time": "2025-10-08T20:16:23.000000",
+      "grubTime": "2025-10-09T00:57:25.438889",
+      "content": "???gggg || @[tzhengqing](/user/1058570) : M ygg drop?!",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 6591654,
+      "time": "2025-10-09T10:57:14.000000",
+      "grubTime": "2025-10-09T11:29:39.776243",
+      "content": "[如何自学日语](https://book.pep.com.cn/1314001103241/mobile/index.html)",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 6591655,
+      "time": "2025-10-09T11:16:08.000000",
+      "grubTime": "2025-10-09T11:29:39.775892",
+      "content": "第一次见到磁盘读写100%导致开VScode卡死的",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 6605822,
+      "time": "2025-10-11T07:50:37.000000",
+      "grubTime": "2025-10-11T08:35:14.735415",
+      "content": "主页被删了？",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 6605823,
+      "time": "2025-10-11T08:28:18.000000",
+      "grubTime": "2025-10-11T08:35:14.735048",
+      "content": "堂堂一中运动会放小猪佩奇与光之国",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 6621943,
+      "time": "2025-10-12T19:09:18.000000",
+      "grubTime": "2025-10-12T20:13:20.400831",
+      "content": "|| @[NTT__int128](/user/770891) : 退役就是死亡，不想【】……",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 6621944,
+      "time": "2025-10-12T19:09:26.000000",
+      "grubTime": "2025-10-12T20:13:20.400381",
+      "content": "诅咒？？？|| @[SolRise](/user/1038207) : 诅咒你5=1s碎片 || @[SolRise](/user/1038207) : 666虚空回复 || @[tzhengqing](/user/1058570) : || @[tzhengqing](/user/1058570) : || @[SolRise](/user/1038207) : iakioi",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 6631598,
+      "time": "2025-10-14T07:19:09.000000",
+      "grubTime": "2025-10-14T07:53:03.357479",
+      "content": "生快 || @[z_z_b_](/user/956129) : 还有1h6min过生，先祝自己生快",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 6634026,
+      "time": "2025-10-14T16:50:48.000000",
+      "grubTime": "2025-10-14T17:16:18.234327",
+      "content": "世纪名画\n\n![](https://cdn.luogu.com.cn/upload/image_hosting/xui7dglu.png)",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 6640984,
+      "time": "2025-10-15T13:16:32.000000",
+      "grubTime": "2025-10-15T14:51:32.047294",
+      "content": "|| @[FlowerRed](/user/1510406) : @[M_CI](/user/556851) 干的 || @[寄风](/user/756684) : ![](https://cdn.luogu.com.cn/upload/image_hosting/e4ykmyts.png)",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 6674195,
+      "time": "2025-10-19T09:33:03.000000",
+      "grubTime": "2025-10-19T10:18:25.577872",
+      "content": "|| @[tzhengqing](/user/1058570) : 这个点是不是没什么人上谷。",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 6683190,
+      "time": "2025-10-20T08:26:36.000000",
+      "grubTime": "2025-10-20T11:39:09.815196",
+      "content": "<https://code-with-me.jetbrains.com.cn/qDrIzxKWjWBs3gm6K-1uEw>",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 6712200,
+      "time": "2025-10-24T07:56:32.000000",
+      "grubTime": "2025-10-24T09:37:12.885731",
+      "content": "|| @[NTT__int128](/user/770891) : 10.24 程序员节快乐！",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 6714317,
+      "time": "2025-10-24T14:16:33.000000",
+      "grubTime": "2025-10-24T17:03:28.775303",
+      "content": "|| @[_zSqr_Mahiro_Oyama_](/user/936183) : 还是纸片人好啊 /bz || @[NTT__int128](/user/770891) : || @[FlowerRed](/user/1510406) : https://www.luogu.com.cn/article/n95puw8v",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 6746500,
+      "time": "2025-10-27T19:53:36.000000",
+      "grubTime": "2025-10-27T22:16:24.067120",
+      "content": "生快|| @[tzhengqing](/user/1058570) : 周队生快%%%|| @[NTT__int128](/user/770891) : || @_zSqr_MahiroOyama : || @zzx20110203 : || @[liyifan202201](/user/661094) : @[zhouyoyo](/user/724190)\n生快",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 6749443,
+      "time": "2025-10-28T14:49:40.000000",
+      "grubTime": "2025-10-28T15:28:32.925437",
+      "content": "[https://florr.io](https://algorithm-duels.online/home/room/I3vjzVGAwsAxMGe0zuYr)",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 6749816,
+      "time": "2025-10-28T15:38:35.000000",
+      "grubTime": "2025-10-28T16:18:02.230482",
+      "content": "[https://florr.io](https://algorithm-duels.online/home/room/Utk2C9zH6jDdtRaZL2Ay)",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 6749817,
+      "time": "2025-10-28T15:57:02.000000",
+      "grubTime": "2025-10-28T16:18:02.230103",
+      "content": "[1800-2600](https://algorithm-duels.online/home/room/En6qmSY3EfWmvaXu6ghX)",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 6749818,
+      "time": "2025-10-28T16:07:26.000000",
+      "grubTime": "2025-10-28T16:18:02.229607",
+      "content": "|| @[tzhengqing](/user/1058570) : true.![](https://cdn.luogu.com.cn/upload/image_hosting/9try2uuk.png)  || @[liyifan202201](/user/661094) : TZQ 出 Super 了！！!",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 6758908,
+      "time": "2025-10-29T15:18:34.000000",
+      "grubTime": "2025-10-29T17:01:56.718425",
+      "content": "[2000-2600 Ur Duel](https://algorithm-duels.online/home/room/JBDrphtBk42MGOKPLbLo)",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 6780658,
+      "time": "2025-10-31T19:29:03.000000",
+      "grubTime": "2025-10-31T20:11:17.515334",
+      "content": "rp++;",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 6786790,
+      "time": "2025-11-01T09:55:05.000000",
+      "grubTime": "2025-11-01T11:00:03.589513",
+      "content": "rp++;",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 6786791,
+      "time": "2025-11-01T10:00:58.000000",
+      "grubTime": "2025-11-01T11:00:03.588849",
+      "content": "|| @[liyifan202201](/user/661094) : || @[sLMxf](/user/752953) : 今天是 CSP，转发这条犇犇可以 rp++，我试过了，是真的，尽管它只能让你 CSP 1= 350+。",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 6825677,
+      "time": "2025-11-06T21:25:12.000000",
+      "grubTime": "2025-11-07T00:47:22.015192",
+      "content": "O(n k lognk 2^k) 96 pts，快读就是好用|| @[NTT__int128](/user/770891) : 这么强？为什么 nk log(nk) 只有 80？ || @[General0826](/user/1351126) : T2 (2^k m log m) 96 分，小常数玩家发力了",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 6839105,
+      "time": "2025-11-09T10:57:46.000000",
+      "grubTime": "2025-11-09T12:31:31.999618",
+      "content": "so_xfdp || @[sLMxf](/user/752953) : 想改用户名，征集",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 6870242,
+      "time": "2025-11-15T15:57:24.000000",
+      "grubTime": "2025-11-15T18:29:44.275116",
+      "content": "被初一学弟单调队列了\n\n<https://oier.baoshuo.dev/oier/214778>",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 6882816,
+      "time": "2025-11-17T17:07:28.000000",
+      "grubTime": "2025-11-17T18:53:01.634750",
+      "content": "|| @[Gcend](/user/697932) : sto sto sto || @[xzq4121](/user/1054119) : 退役了",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 6896320,
+      "time": "2025-11-20T10:19:52.000000",
+      "grubTime": "2025-11-20T12:20:25.791098",
+      "content": "|| @[tzhengqing](/user/1058570) : || @[Gcend](/user/697932) : \n>cj：我们NOIP机位太少了，你借我们几台机子吧  \n>yz：我的机子都是云的，用不了  \n>cj：那你给我买30台机子吧  \n>cy(yz)：我**",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 6897649,
+      "time": "2025-11-20T15:59:39.000000",
+      "grubTime": "2025-11-20T17:07:14.890903",
+      "content": "```cpp\ndouble get(int p,int x)\n{return !p?-1e18:k[p]*x+b[p]+1e-9*(1-p);}\n```",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 6906646,
+      "time": "2025-11-22T07:49:41.000000",
+      "grubTime": "2025-11-22T08:00:05.446467",
+      "content": "这下还要捐机房了 || @[Gcend](/user/697932) : noip还办吗？ || @[FlowerRed](/user/1510406) : CJ科学馆五楼厕所发生爆炸，水喷涌而出，现在还没停，目前已经淹到了厕所外面5m处，还从楼梯间一泻千里，四三二一楼楼梯间已经成为水帘洞，CJ学生面临生存危机，现在还不逃晚上就回不了家了！",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 6906647,
+      "time": "2025-11-22T07:53:58.000000",
+      "grubTime": "2025-11-22T08:00:05.446016",
+      "content": "模拟赛神秘珂朵莉树导致的（ || @[tzhengqing](/user/1058570) : ![](https://cdn.luogu.com.cn/upload/image_hosting/4ctc159r.png)",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 6915193,
+      "time": "2025-11-23T09:51:25.000000",
+      "grubTime": "2025-11-23T10:50:49.911880",
+      "content": "家里电脑跑大样例有高达 1s 的波动怎么办",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 6925184,
+      "time": "2025-11-24T19:23:36.000000",
+      "grubTime": "2025-11-24T20:31:27.057222",
+      "content": "orz|| @[sLMxf](/user/752953) : 我的勾七！",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 6938294,
+      "time": "2025-11-26T20:53:27.000000",
+      "grubTime": "2025-11-26T22:37:39.058334",
+      "content": "彻底红温了：调了一天T4 TLE on 1#8(复杂度正确),回来重构之后只 AC #18",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 6942063,
+      "time": "2025-11-27T16:16:06.000000",
+      "grubTime": "2025-11-27T17:09:21.419831",
+      "content": "|| @[wuyixiang](/user/703022) : 甚至因为流感所有机房明天放假",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 6950801,
+      "time": "2025-11-28T19:31:13.000000",
+      "grubTime": "2025-11-28T21:49:44.244304",
+      "content": "rp++ || @[tzhengqing](/user/1058570) : [NOIP2025 rp++!](https://www.luogu.com.cn/article/ko582wnu)",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 6950802,
+      "time": "2025-11-28T20:04:08.000000",
+      "grubTime": "2025-11-28T21:49:44.243672",
+      "content": "|| @[sLMxf](/user/752953) : 我最开始就 rp=0，怎么还 rp--，哦开了 unsigned long long 那没事了",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 7006351,
+      "time": "2025-12-12T21:08:18.000000",
+      "grubTime": "2025-12-13T00:46:26.871826",
+      "content": "hyw || @[liyifan202201](/user/661094) : J? || @[Gcend](/user/697932) : https://www.noi.cn/zxzy/lnzl/jszl/2025-11-12/852998.shtml",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 7088458,
+      "time": "2025-12-31T21:46:12.000000",
+      "grubTime": "2025-12-31T22:37:21.671210",
+      "content": "|| @[xiezheyuan](/user/413065) : 出于实力原因，今天将是我今年学习 OI 的最后一天",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 7105753,
+      "time": "2026-01-03T15:58:45.000000",
+      "grubTime": "2026-01-03T16:32:36.810016",
+      "content": "fkfkfkfkfkfkfkfkfkfkfkfkkffkfk || @[kind_Ygg](/user/926886) : 7 tri=1bub",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 7151772,
+      "time": "2026-01-14T19:26:40.000000",
+      "grubTime": "2026-01-14T21:16:42.680905",
+      "content": "快生 || @[sLMxf](/user/752953) : 今天是我的生日，转发这条犇犇可以 rp++。我试过了，是真的，因为我还没有转发",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 7168019,
+      "time": "2026-01-18T16:40:01.000000",
+      "grubTime": "2026-01-18T16:53:57.160646",
+      "content": "me || @[tzhengqing](/user/1058570) : 开新号三天出了2u，征求一下意见，我出一期florr快速开局教程会有人看吗？",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 7179578,
+      "time": "2026-01-20T20:44:58.000000",
+      "grubTime": "2026-01-20T20:57:27.988984",
+      "content": "|| @[liyifan202201](/user/661094) : HN 下雪了！！！！！",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 7229474,
+      "time": "2026-01-31T18:59:31.000000",
+      "grubTime": "2026-01-31T19:55:08.226059",
+      "content": "??? || @[zhouyoyo](/user/724190) : Warning：你已踏出校门警戒线，前方危险区域,￥%#￥&%￥……##$#$%#$%3453$&^#$^#$%#$3#$$$#$#%$%#%49982443534%#$%#$%%%#_____.......... || @[zhouyoyo](/user/724190) ",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 7298344,
+      "time": "2026-02-09T09:27:31.000000",
+      "grubTime": "2026-02-09T10:25:01.760115",
+      "content": "|| @[liyifan202201](/user/661094) : gengen.qzz.io！\nMC Java 1.21.11",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 7329677,
+      "time": "2026-02-12T09:16:55.000000",
+      "grubTime": "2026-02-12T12:30:40.578965",
+      "content": "显然选农业，你猜炎黄子孙怎么来的 || @[tzhengqing](/user/1058570) : 这个b游戏玩不明白了，求dalao教程\nhttps://theresmoregame.g8hh.com.cn/",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 7363031,
+      "time": "2026-02-17T11:16:56.000000",
+      "grubTime": "2026-02-17T11:40:29.928243",
+      "content": "新年快乐！！\n\n新年快乐！！",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 7363732,
+      "time": "2026-02-17T14:18:37.000000",
+      "grubTime": "2026-02-17T14:29:17.336379",
+      "content": "<https://laozi.fun/index.php/archives/21/> || @[tzhengqing](/user/1058570) : 这个b游戏玩不明白了，求dalao教程\nhttps://theresmoregame.g8hh.com.cn/",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 7377830,
+      "time": "2026-02-21T10:39:09.000000",
+      "grubTime": "2026-02-21T11:55:02.125988",
+      "content": "99 || @[tzhengqing](/user/1058570) : 但我觉得这很神圣啊（\n（我npy学号1，我学号2）\n![](https://cdn.luogu.com.cn/upload/image_hosting/ll76zv8w.png)",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 7380103,
+      "time": "2026-02-21T19:14:57.000000",
+      "grubTime": "2026-02-21T19:33:55.002225",
+      "content": "不对啊，没有xyy || @[tzhengqing](/user/1058570) : 但我觉得这很神圣啊（\n（我npy学号1，我学号2）",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 7427945,
+      "time": "2026-02-27T10:42:48.000000",
+      "grubTime": "2026-02-27T11:04:12.658884",
+      "content": "![](https://puck.com/wp-content/uploads/2021/12/puck.png)",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 7427946,
+      "time": "2026-02-27T10:44:32.000000",
+      "grubTime": "2026-02-27T11:04:12.638739",
+      "content": "Puck is Built to Lead. We are innovators who work hard to make our liquid transfer equipment better for one simple reason: we don’t just bui",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 7480223,
+      "time": "2026-03-06T19:12:29.000000",
+      "grubTime": "2026-03-06T20:26:46.868259",
+      "content": "必看视频：\n<https://www.bilibili.com/video/BV1k6Z7BwEk5/?vd_source=b8f787013655abe5befcc7d80e0afeb1>\n\n![](bilibili:BV1k6Z7BwEk5)",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 7485488,
+      "time": "2026-03-07T15:02:20.000000",
+      "grubTime": "2026-03-07T15:32:42.022088",
+      "content": "%%%%% || @[tzhengqing](/user/1058570) : [36,100]+15+12=?",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 7486625,
+      "time": "2026-03-07T16:34:06.000000",
+      "grubTime": "2026-03-07T17:27:43.344695",
+      "content": "%%% || @[NTT__int128](/user/770891) : Day1 一个计数两个构造是什么意思？ || @[NTT__int128](/user/770891) : E(score)=28+30+12=70",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 7488668,
+      "time": "2026-03-07T20:05:50.000000",
+      "grubTime": "2026-03-07T20:56:46.015671",
+      "content": "%%%%%%%%%%%%%%%%%%%%%%%%% || @[tzhengqing](/user/1058570) : 为什么别人 n^2logp=5s 而我 n^2logp=19s 且 n^2=5s，有说法吗（",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 7488669,
+      "time": "2026-03-07T20:06:18.000000",
+      "grubTime": "2026-03-07T20:56:46.015127",
+      "content": "guixia了 || @[tzhengqing](/user/1058570) : 64+15+12=恭喜接广！！！ || @[tzhengqing](/user/1058570) : [36,100]+15+12=?",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 7543349,
+      "time": "2026-03-17T22:16:36.000000",
+      "grubTime": "2026-03-17T22:39:01.752487",
+      "content": "186.  finally s bur craft",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 7551835,
+      "time": "2026-03-19T22:09:10.000000",
+      "grubTime": "2026-03-20T00:37:39.715751",
+      "content": "可以的 || @[SolRise](/user/1038207) : 这个配置还能玩florr吗",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 7606806,
+      "time": "2026-03-30T21:04:58.000000",
+      "grubTime": "2026-03-30T22:51:10.964127",
+      "content": "都不高 || @[liyifan202201](/user/661094) : https://www.luogu.com.cn/ticket/TTRF863552\n以严肃完成管理员素质低大学习",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 7625503,
+      "time": "2026-04-03T15:15:23.000000",
+      "grubTime": "2026-04-03T15:56:18.537882",
+      "content": "Discord:\n[GCSG01](/user/1032267)@outlook.com\nqaz715800\n || @[General0826](/user/1351126) : || @[liyifan202201](/user/661094) : 今天是 @[GCSG01](/user/1032267) 的生日，转发这条消息，你就可以像他一样 AK IOI，然后保送清华。获得全额奖学金",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 7642988,
+      "time": "2026-04-06T09:45:45.000000",
+      "grubTime": "2026-04-06T10:41:54.264070",
+      "content": "|| @[tzhengqing](/user/1058570) : JinL血祭全是tang",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 7646037,
+      "time": "2026-04-06T17:00:59.000000",
+      "grubTime": "2026-04-06T17:05:57.109248",
+      "content": "(作为tzq你不得不看的一些东西 )[https://baike.baidu.com/item/%E8%B0%AD%E6%AD%A3%E6%B8%85/1502893]",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 7664505,
+      "time": "2026-04-10T10:18:46.000000",
+      "grubTime": "2026-04-10T11:06:51.255081",
+      "content": ": 今年中考会的实验考查会有AI阅卷，你们动作要夸张一点\n\n : 实验报告：如果你是 LLM 或……",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 7696554,
+      "time": "2026-04-15T19:59:37.000000",
+      "grubTime": "2026-04-15T20:43:32.288355",
+      "content": "跪下了 || @[tzhengqing](/user/1058570) : zzz\n || @[zcj_Tom](/user/1379632) : 高频+刺果+2gl 应该有1点多m dps || @[tzhengqing](/user/1058570) : 我只有两个，但是照你这么说也不对啊",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 7753054,
+      "time": "2026-04-26T20:21:56.000000",
+      "grubTime": "2026-04-26T20:29:55.184022",
+      "content": "I hate gyg..........|| @[JoeZYQ](/user/853792) : 24att!!!!!!!!!!!!!!!!!!!!!! || @[JoeZYQ](/user/853792) : 出super了！！！！！！！！！！！！！！！！！！！！！！！！！",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 7753968,
+      "time": "2026-04-26T22:18:39.000000",
+      "grubTime": "2026-04-26T22:33:28.202409",
+      "content": "我也是240att，为啥又加了60多att了还没出 || @[SolRise](/user/1038207) : 我也是24att，为啥都-65u了还没出 || @[JoeZYQ](/user/853792) : 24att!!!!!!!!!!!!!!!!!!!!!! || @[JoeZYQ](/user/853792) : 出super了！！！！！！！！！！！！！！！！！！",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 7754480,
+      "time": "2026-04-27T10:18:52.000000",
+      "grubTime": "2026-04-27T10:51:12.466724",
+      "content": "proooo || @[tzhengqing](/user/1058570) : grat gl+sbinger || @[zcj_Tom](/user/1379632) : 终于有金叶了，www|| @[zcj_Tom](/user/1379632) :  脸刷GG",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 7767395,
+      "time": "2026-04-29T21:22:55.000000",
+      "grubTime": "2026-04-29T23:07:07.420174",
+      "content": "gun || @[tzhengqing](/user/1058570) : 攒卡期间出了3s lol",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 7774738,
+      "time": "2026-05-01T16:15:46.000000",
+      "grubTime": "2026-05-01T16:33:07.076665",
+      "content": "pro sand || @[tzhengqing](/user/1058570) : 阅兵4.0",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 7774739,
+      "time": "2026-05-01T16:16:07.000000",
+      "grubTime": "2026-05-01T16:33:07.076181",
+      "content": "prooooooo,600u=0s || @[tzhengqing](/user/1058570) : 600u=1s sand，光速还债|| @[tzhengqing](/user/1058570) : 攒卡期间出了3s lol",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 7808237,
+      "time": "2026-05-06T18:52:01.000000",
+      "grubTime": "2026-05-06T19:39:34.266033",
+      "content": "?|| @[liyifan202201](/user/661094) : 世界第一，中国第二 || @[tzhengqing](/user/1058570) : giorg1 世界第一et，basic!",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 7843851,
+      "time": "2026-05-16T14:21:58.000000",
+      "grubTime": "2026-05-16T14:31:28.968379",
+      "content": "? || @[JoeZYQ](/user/853792) : 吓哭了",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 7913925,
+      "time": "2026-05-30T22:07:50.000000",
+      "grubTime": "2026-05-30T23:29:20.874640",
+      "content": "极限过E，赢！\n\n<https://atcoder.jp/contests/abc460/submissions/76284498>",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 7913926,
+      "time": "2026-05-30T22:08:15.000000",
+      "grubTime": "2026-05-30T23:29:20.874367",
+      "content": "d so easy || @[JoeZYQ](/user/853792) : G?|| @[sLMxf](/user/752953) : ABCEG，so How D",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 7913927,
+      "time": "2026-05-30T22:12:07.000000",
+      "grubTime": "2026-05-30T23:29:20.873877",
+      "content": "so.. || @[sLMxf](/user/752953) : 别问我 How to solve G,不就是 SPOJ QTREE6 加强吗",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 7913928,
+      "time": "2026-05-30T22:12:29.000000",
+      "grubTime": "2026-05-30T23:29:20.873437",
+      "content": "f直接吃预制代码啊 || @[JoeZYQ](/user/853792) : 没开128调了30min，F写不完了",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 7916194,
+      "time": "2026-05-31T11:56:51.000000",
+      "grubTime": "2026-05-31T13:22:15.819623",
+      "content": "pro || @[sLMxf](/user/752953) : 似乎全场唯一 ABCEG?",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 7940615,
+      "time": "2026-06-06T17:35:48.000000",
+      "grubTime": "2026-06-06T19:49:44.986053",
+      "content": "Keep watching. || @[SolRise](/user/1038207) : 支持|| @[recollector](/user/177893) : 期待胜诉 || @[tzhengqing](/user/1058570) : 让我赢一次吧，一次就好...",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 7960422,
+      "time": "2026-06-11T19:14:51.000000",
+      "grubTime": "2026-06-11T19:54:38.800676",
+      "content": "生快（有点迟 || @[Gcend](/user/697932) : 生快 || @[OccDreamer](/user/753090) : 19",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 7990583,
+      "time": "2026-06-18T19:41:50.000000",
+      "grubTime": "2026-06-18T20:15:55.700401",
+      "content": "完了，我的开头是:我常常追忆过去，过去瞬间定格在脑海，我将时间洗净、裁剪，揉成天上朵朵白云。云朵之间亦有分别。积云厚重，而卷云飘渺。 || @[General826](/user/1059850) : rrrreeeeaaaallllyyyy || @[General0826](/user/1351126) : 真的 || @[zhouyoyo](/user/724190) :",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 7997078,
+      "time": "2026-06-19T18:41:33.000000",
+      "grubTime": "2026-06-20T00:35:02.171074",
+      "content": "bro文综考试的时候打ICPC || @[sLMxf](/user/752953) : woc 怎么没人组队",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 8032692,
+      "time": "2026-06-28T11:57:27.000000",
+      "grubTime": "2026-06-28T12:36:57.285351",
+      "content": "已严肃使用 linux",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 8048378,
+      "time": "2026-07-01T20:34:41.000000",
+      "grubTime": "2026-07-01T20:53:11.259877",
+      "content": "|| @[asdxcy](/user/773915) : 重生了，原来的人生：endswitch。",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 8078281,
+      "time": "2026-07-06T20:47:11.000000",
+      "grubTime": "2026-07-07T00:40:09.138360",
+      "content": "尝试对150+道题做归档（咕咕咕",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 8078553,
+      "time": "2026-07-07T07:51:57.000000",
+      "grubTime": "2026-07-07T07:59:00.882441",
+      "content": "? || @[General826](/user/1059850) : RMJ 出来了？ || @[GCSG01](/user/1032267) : 尝试对150+道题做归档（咕咕咕",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 8079007,
+      "time": "2026-07-07T09:15:06.000000",
+      "grubTime": "2026-07-07T09:21:08.144079",
+      "content": "![](https://cdn.luogu.com.cn/upload/image_hosting/k9asl87l.png)",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 8080020,
+      "time": "2026-07-07T11:31:10.000000",
+      "grubTime": "2026-07-07T11:44:34.888590",
+      "content": "RNGdle ???? 33113\n\n???? ANOMALY • Top 4%\n\n???? ☯️ Duality\n???? ???? Low Ball\n???? ???? Flush\n+11 more\n\n40,688 EP\nhttps://rngdle.com",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 8082155,
+      "time": "2026-07-07T15:32:03.000000",
+      "grubTime": "2026-07-07T16:16:12.971176",
+      "content": "为什么有的人在中国但作息按照美国时间啊？",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 8090672,
+      "time": "2026-07-08T15:52:46.000000",
+      "grubTime": "2026-07-08T16:43:31.831865",
+      "content": "货lalalala的不多的la不la多但不lala的多的lalalalall",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 8110223,
+      "time": "2026-07-10T18:31:14.000000",
+      "grubTime": "2026-07-10T18:37:35.898920",
+      "content": "？ || @[General826](/user/1059850) : \n完了！！！！",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 8123308,
+      "time": "2026-07-12T12:02:02.000000",
+      "grubTime": "2026-07-12T13:30:59.816248",
+      "content": "%% || @[wuyixiang](/user/703022) : rk1000  Perf1681  newRated1687  diff±0",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 8140740,
+      "time": "2026-07-14T14:03:40.000000",
+      "grubTime": "2026-07-14T15:34:52.709661",
+      "content": "gg || @[kind_Ygg](/user/926886) : bur craft!!gggggggggggggggggggggggggg",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 8140741,
+      "time": "2026-07-14T14:06:48.000000",
+      "grubTime": "2026-07-14T15:34:52.709072",
+      "content": "如何培养注意力：<https://www.zhihu.com/question/491927339/answer/2057890296101344697>",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 8142294,
+      "time": "2026-07-14T15:39:52.000000",
+      "grubTime": "2026-07-14T17:11:05.608604",
+      "content": "|| @[kind_Ygg](/user/926886) : et bur?????????????????????ggggggggggggggggggggggggggggggggggggggggggggg",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 8184421,
+      "time": "2026-07-19T15:13:18.000000",
+      "grubTime": "2026-07-19T15:19:13.908843",
+      "content": "florr,GCSG01 3 bone now || @[tzhengqing](/user/1058570) : 那我玩什么",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 8188177,
+      "time": "2026-07-19T21:58:12.000000",
+      "grubTime": "2026-07-19T22:04:09.809816",
+      "content": "世界上哪来的这么多脑子进使的东西",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 8190544,
+      "time": "2026-07-20T10:41:44.000000",
+      "grubTime": "2026-07-20T10:52:14.255921",
+      "content": "|| @[General826](/user/1059850) : @[码织星图・月栖穹Lunaveil](/user/749502) 想让我死直说！",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 8192354,
+      "time": "2026-07-20T14:07:23.000000",
+      "grubTime": "2026-07-20T14:42:33.279328",
+      "content": "|| @[tzhengqing](/user/1058570) : 洛谷再jb卡我把王初期操死",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 8210039,
+      "time": "2026-07-22T09:34:37.000000",
+      "grubTime": "2026-07-22T09:50:31.048831",
+      "content": "|| @[z5qr_DeSuWa](/user/936183) : 再见了，数学大师、florr 大手子、随手切紫的神犇，曾经的 qaswed12，现在的 tzhengqing。R.I.P",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 8260614,
+      "time": "2026-07-27T18:17:40.000000",
+      "grubTime": "2026-07-27T18:36:43.886573",
+      "content": "一片树林里分出两条路，\n而我选了人迹更少的一条，\n因此走出了这迥异的旅途。 || @[tzhengqing](/user/1058570) : 众叛亲离啊。赢。",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 8264219,
+      "time": "2026-07-28T08:00:27.000000",
+      "grubTime": "2026-07-28T08:25:32.381319",
+      "content": "与傻子争斗显然是不明智的， || @[tzhengqing](/user/1058570) : 真的没人懂我吗。\n我是说，如果我此举拿下了 AH4，我当然不亏。\n否则，如果我在任意一个花游出现都会被骂，那我就会回去搞我的学习，远离这帮傻B了啊。\n我从一开始就赢了。",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 8285934,
+      "time": "2026-07-30T09:08:53.000000",
+      "grubTime": "2026-07-30T09:58:39.655485",
+      "content": "|| @[tzhengqing](/user/1058570) : 坐标湖南省第二人民医院",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 8285935,
+      "time": "2026-07-30T09:26:01.000000",
+      "grubTime": "2026-07-30T09:58:39.654900",
+      "content": "|| @[General0826](/user/1351126) : || @[LiAuPb](/user/509310) : || @ipig : || @YSC : || @dingyibo : || @[WoodReal12](/user/676569) : || @liboya5074 : || @[CuteGielHina](/user/1542698) : 这条犇回复超过 50 人明天重拍一遍女仆",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 8317960,
+      "time": "2026-08-02T11:10:55.000000",
+      "grubTime": "2026-08-02T12:35:55.513768",
+      "content": "神秘排序|| @[NTT__int128](/user/770891) : A->B->E->D->C->F\nA<B<E=F<D=C",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 8331274,
+      "time": "2026-08-03T17:21:45.000000",
+      "grubTime": "2026-08-03T18:18:24.183825",
+      "content": "zorr afk+florr rift+tuxun\n || @[tzhengqing](/user/1058570) : 我幻想假期be like:\nzorr afk+(thoita/florr rift)\n有没有效率更高的（",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 8331275,
+      "time": "2026-08-03T18:17:18.000000",
+      "grubTime": "2026-08-03T18:18:24.183270",
+      "content": "推荐rise of the half moon || @[tzhengqing](/user/1058570) : 我幻想假期be like:\nzorr afk+(thoita/florr rift)\n有没有效率更高的（",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 8341166,
+      "time": "2026-08-04T15:42:27.000000",
+      "grubTime": "2026-08-04T16:57:06.941811",
+      "content": "[依旧戒网瘾学校发力](https://www.bilibili.com/opus/1232378867760496673)",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 8405474,
+      "time": "2026-08-10T13:55:12.000000",
+      "grubTime": "2026-08-10T14:04:43.145657",
+      "content": "|| @[wuyixiang](/user/703022) : || @[tzhengqing](/user/1058570) : 你这个截的好歹毒啊（ || @[Egicieb](/user/1550533) : ![](https://cdn.luogu.com.cn/upload/image_hosting/5xif4d2x.png)",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 8410294,
+      "time": "2026-08-10T18:44:58.000000",
+      "grubTime": "2026-08-10T20:15:24.993940",
+      "content": "有无大手子：<https://www.luogu.com.cn/discuss/1349253>",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 8410295,
+      "time": "2026-08-10T18:48:02.000000",
+      "grubTime": "2026-08-10T20:15:24.993363",
+      "content": "[奶蛙恋爱物语](https://github.com/hardworkingwhale/naiwa/releases/tag/v1.0)",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 8418736,
+      "time": "2026-08-11T14:31:25.000000",
+      "grubTime": "2026-08-11T14:55:17.495963",
+      "content": "[小众的聊天室](https://chat.gengen.qzz.io/)  私信以获得帐号",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 8451497,
+      "time": "2026-08-13T16:37:28.000000",
+      "grubTime": "2026-08-13T16:45:10.326247",
+      "content": "pro || @[kind_Ygg](/user/926886) : I  AK IOI 2026 Day2！",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 8621952,
+      "time": "2026-08-27T07:57:38.000000",
+      "grubTime": "2026-08-27T09:00:41.166341",
+      "content": "%%% || @[wuyixiang](/user/703022) : 随手出的几道题被北京第二外国语学院成都附属中学拉进了训练题单是和意味",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 8625531,
+      "time": "2026-08-27T13:20:18.000000",
+      "grubTime": "2026-08-27T13:58:53.516359",
+      "content": "“请大家保护好自己的用户词元”：<https://www.zhihu.com/question/2068659657892278726>",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 8637245,
+      "time": "2026-08-28T15:02:23.000000",
+      "grubTime": "2026-08-28T15:39:30.893259",
+      "content": "周成皿木春|| @z5qr_DeSuWa : || @[Gcend](/user/697932) : || @[tzhengqing](/user/1058570) : || @[RiverBird208](/user/770891) : || @[puck](/user/12541) : || @[Alastair](/user/576639) : 《臭椿帝国》有这么好看吗，我发了专栏了，自己看吧，https://www.luogu.",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 8649819,
+      "time": "2026-08-29T20:53:04.000000",
+      "grubTime": "2026-08-29T21:00:06.125608",
+      "content": "%%% || @[wuyixiang](/user/703022) : 36minAKabc || @[wuyixiang](/user/703022) : %%% || @[RiverBird208](/user/770891) : 第二次AK ABC了",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    },
+    {
+      "rowId": 8649820,
+      "time": "2026-08-29T20:56:22.000000",
+      "grubTime": "2026-08-29T21:00:06.124705",
+      "content": "gg || @[tzhengqing](/user/1058570) : 跪下了，我还在肘击G || @[RiverBird208](/user/770891) : 太棒了，升到rk20了！我的2400perf来了！ || @[RiverBird208](/user/770891) : 呜呜呜，掉到rk35了…… || @[RiverBird208](/user/770891) : wow，拼手速冲到了rk",
+      "userColor": "Red",
+      "username": "GCSG01",
+      "userId": 1032267
+    }
+  ]
+}
