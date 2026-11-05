@@ -76,6 +76,14 @@
       "hash": "bcffd6e419895239b622f1608df09451d5a6d39eb85053d1cc8529e8aad3dc36",
       "iterations": 100000,
       "createdAt": "2026-10-29T01:38:12.482Z"
+    },
+    {
+      "username": "wuyixiang2",
+      "role": "user",
+      "salt": "0b16dfd2530874b6a4c1230bc08ab970",
+      "hash": "ce68c57793e5998e298b0b4ed0ce4a3442cbd252437b88a7aa0567837d8a202f",
+      "iterations": 100000,
+      "createdAt": "2026-11-05T05:45:08.350Z"
     }
   ]
 }
