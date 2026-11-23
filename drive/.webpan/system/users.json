@@ -84,6 +84,14 @@
       "hash": "ce68c57793e5998e298b0b4ed0ce4a3442cbd252437b88a7aa0567837d8a202f",
       "iterations": 100000,
       "createdAt": "2026-11-05T05:45:08.350Z"
+    },
+    {
+      "username": "kindaunt",
+      "role": "user",
+      "salt": "9c6d5f9dbf2c4e67aa16570a3e0466fa",
+      "hash": "baf54a9ae1c5864dc649bc9d196feb24693d6c826c8522f6cb83a1d7ee13a814",
+      "iterations": 100000,
+      "createdAt": "2026-11-23T07:11:33.261Z"
     }
   ]
 }
